@@ -1,0 +1,84 @@
+meta:
+  profile_owner: Pedro Henrique Leonardi Silva
+  profile_type: Perfil Profissional
+  version: 1.1.1
+  last_updated: 2026-08-28
+  language: pt-BR
+  canonical_source: true
+  purpose[4]: Referência completa do histórico profissional,Correspondência com oportunidades de trabalho,Geração de currículos,Análise de carreira assistida por IA
+  secondary_sources:
+    linkedin: "https://www.linkedin.com/in/pedrhenriquels/"
+    github: "https://github.com/pedrHenrique"
+profile:
+  title: Engenheiro Sênior de Automação de Testes / SDET
+  primary_domain: Engenharia de Qualidade de Software e Automação de Testes
+  contact:
+    email: pedrleonardi@gmail.com
+    location: "São Paulo, SP, Brasil"
+  background[3]: Engenharia de Qualidade,Automação de Testes,DevOps
+  short_professional_summary: "Engenheiro de qualidade de software e automação com experiência em Automação de Testes e DevOps, incluindo desenvolvimento de frameworks de testes, automação de processos e testes e melhoria da eficiência dos ciclos de regressão. Focado em automações confiáveis, eficientes e de fácil manutenção, além da colaboração antecipada com profissionais de QA, desenvolvimento e produto para identificar riscos de qualidade."
+  long_professional_summary: "Possuo mais de 5 anos de experiência em Tecnologia e Qualidade de Software, com uma trajetória evolutiva em DevOps, Engenharia de Qualidade e Automação de Testes, alcançando a posição de Engenheiro Sênior de Automação de Testes. Tenho experiência no desenho, desenvolvimento e evolução de projetos de automação de testes para aplicações web, desktop e APIs, bem como na criação e manutenção de testes automatizados, utilizando principalmente Python, Cypress, Robot Framework, Postman, Newman, JUnit e SQL. Possuo experiência na construção de frameworks de testes do zero, manutenção de projetos com mais de 400 testes E2E, aplicação de Page Object Model (POM), Data-Driven Testing, execução baseada em tags, automação de APIs e integração de testes a pipelines de CI/CD com Jenkins. Também tenho experiência prática com Docker, Linux, Ansible, geração de relatórios com Allure Report e desenvolvimento de automações e integrações em Python. Minha atuação vai além da execução de testes: busco compreender profundamente a arquitetura, as regras de negócio e os riscos do produto para desenvolver soluções confiáveis, reutilizáveis e escaláveis. Tenho experiência na mentoria de profissionais de QA, disseminando boas práticas de automação, padrões de código limpo e fundamentos de programação, contribuindo para o desenvolvimento técnico e a consistência das entregas da equipe."
+  professional_experience_summary:
+    experience_years: 5 anos e 9 meses em funções de software e tecnologia
+    qa_and_test_automation: 3 anos e 4 meses
+    devops: 2 anos e 8 meses
+    senior_qa_automation: 1 ano e 5 meses
+  companies[2]:
+    - company: Contmatic Phoenix
+      location: "São Paulo, SP, Brasil, Remoto"
+      total_tenure: 5 anos e 9 meses
+      roles[4]:
+        - title: Engenheiro Sênior de Automação de Testes
+          period:
+            start: 2024-10
+            end: 2026-02
+          duration: 1 ano e 5 meses
+          area: Engenharia de Qualidade / Automação de Testes / Desenvolvimento de Frameworks de Testes
+          context: Aplicações desenvolvidas em Delphi para o segmento fiscal e contábil.
+          achievements[7]: "Projetei e desenvolvi do zero um framework completo de automação de testes E2E para aplicações desktop utilizando Python e Robot Framework, reduzindo o tempo de regressão de aproximadamente seis horas para uma hora.",Automatizei com Bitbucket Pipelines/Runner a execução completa das suítes de testes desktop e a publicação dos resultados do Allure Report em servidores web internos.,"Desenvolvi uma solução em Python e PowerShell para instalar dependências e configurar máquinas virtuais Windows como executores dos testes desktop, reduzindo em 80% o esforço manual necessário para preparar a infraestrutura.","Atuei na mentoria de profissionais juniores de QA em boas práticas de automação de testes, código limpo e fundamentos de programação.","Planejei, documentei e executei estratégias de testes manuais e automatizados, abrangendo testes funcionais, exploratórios, regressivos, de integração e de APIs, além de validações de banco de dados utilizando SQL.","Investiguei e documentei defeitos, registrando contexto, pré-condições, etapas de reprodução, resultados esperados e obtidos, evidências, logs e impactos identificados.","Colaborei diretamente com desenvolvedores na reprodução de problemas, análise de causa raiz, validação de correções e execução de retestes antes de novos releases."
+          tech_stack[10]: Python,PowerShell,Robot Framework,Robocorp,Bitbucket Pipelines,Bitbucket Runner,Windows Server,Nginx,Docker,Allure Report
+        - title: Engenheiro DevOps Pleno
+          period:
+            start: 2023-09
+            end: 2024-10
+          duration: 1 ano e 2 meses
+          area: DevOps / CI/CD / Automação
+          context: "Automação de processos internos e suporte a pipelines e aplicações nos ambientes de desenvolvimento, homologação e produção."
+          achievements[5]: "Desenvolvi e mantive pipelines Jenkins integrados aos fluxos de CI/CD para automatizar a execução de testes e a validação noturna de deploys. Isso incluiu a execução de collections do Postman com Newman, o gerenciamento de arquivos de ambiente não sensíveis e versionados, a geração de relatórios Allure e a publicação dos resultados em servidores internos com Apache HTTP Server.","Desenvolvi scripts Python para consolidar informações de ferramentas como Jenkins, SonarQube e Kibana, automatizando consultas e o envio de relatórios para monitoramento interno.","Desenvolvi uma Jenkins Shared Library reutilizável com Groovy e Python para enviar notificações contextualizadas do Discord diretamente pelos pipelines, incluindo resultados de builds, histórico de commits, anexos e mensagens estruturadas com rich embeds.","Prestei suporte e realizei a manutenção dos ambientes de desenvolvimento, homologação e produção executados em máquinas virtuais hospedadas no Google Cloud Platform (GCP), trabalhando por meio de SSH e scripts de automação.","Investiguei e resolvi problemas envolvendo pipelines, aplicações Java e Angular e ferramentas internas por meio da análise de logs, serviços, arquivos de configuração e histórico de execução, restaurando fluxos de entrega e operações bloqueadas."
+          tech_stack[14]: Python,Groovy,Jenkins,Postman,Newman,Allure Report,Apache HTTP Server,SonarQube,Kibana,Google Cloud Platform,SSH,Java,Angular,Tomcat
+        - title: DevOps Pleno
+          period:
+            start: 2021-11
+            end: 2023-09
+          duration: 1 ano e 11 meses
+          area: Qualidade de Software / Automação de Testes / Desenvolvimento de Funcionalidades para Aplicações Backend em Java
+          context: ERP dos segmentos fiscal e financeiro.
+          achievements[4]: "Desempenhei um papel importante na implementação e evolução de um projeto de automação E2E com Cypress e JavaScript contendo mais de 400 testes para uma plataforma ERP dos segmentos fiscal e financeiro, aplicando Page Object Model, Data-Driven Testing, execução baseada em tags, recuperação automatizada e suporte a múltiplos ambientes para aumentar a estabilidade e reduzir falhas falsas nos pipelines.","Criei e executei collections de testes de APIs REST no Postman, utilizando variáveis de ambiente, scripts de pré-requisição e asserções automatizadas para validar códigos de status HTTP, mensagens e payloads de resposta, regras de negócio e integrações entre serviços.",Contribuí para o desenvolvimento de novas funcionalidades backend e testes unitários utilizando Java e JUnit.,"Participei de cerimônias ágeis, sessões de refinamento e discussões técnicas com as equipes de produto e engenharia, analisando requisitos, documentando cenários de teste e executando testes funcionais e de integração para validar regras de negócio."
+          tech_stack[8]: Cypress,JavaScript,Page Object Model,Data-Driven Testing,Tag-Based Test Execution,Postman,Java,JUnit
+        - title: Estagiário em DevOps
+          period:
+            start: 2020-06
+            end: 2021-11
+          duration: 1 ano e 6 meses
+          area: DevOps / Engenharia de Software
+          responsibilities[4]: "Apoiei processos de DevOps, automação, desenvolvimento de software, integração contínua e entrega contínua.","Desenvolvi uma base prática em programação, automação, qualidade de software e práticas de engenharia.",Apoiei equipes técnicas em demandas operacionais e na evolução dos processos de desenvolvimento e entrega.,"Mentorado por: Silvano Pessoa, Andre Crespo"
+    - company: Condvolt Fios e Cabos
+      location: "São Paulo, SP, Brasil"
+      total_tenure: 1 ano
+      roles[1]{title,period{start,end},duration,area}:
+        Jovem Aprendiz Expedição; Logística,2018-06,2019-05,1 ano,Expedição / Logística
+  education[2]{degree,institution,period{start,end},completed}:
+    Bacharelado em Ciência da Computação,Universidade Paulista - UNIP,2019-03,2023-03,2023
+    Ensino Médio com Técnico em Informática,Etec Prof. Adhemar Batista Heméritas,"2015","2017",2017
+  languages:
+    english: B2 - Intermediário-avançado / Proficiência profissional de trabalho
+demonstrated_outcomes[6]{achievement,impact}:
+  Desenvolvi do zero um framework completo de automação de testes E2E para desktop.,"Possibilitou a automação de testes para aplicações desktop desenvolvidas em Delphi, reduziu o tempo de execução da regressão de aproximadamente seis horas para uma hora e permitiu que outros profissionais de QA contribuíssem com o projeto e com a automação dos testes."
+  "Desempenhei um papel importante na implementação e evolução de um projeto de automação com Cypress e JavaScript contendo mais de 400 testes E2E, aplicando execução baseada em tags, Data-Driven Testing, recuperação automatizada e configuração para múltiplos ambientes.","Facilitou a manutenção e a automação contínua de novos casos de teste, reduziu falhas falsas e testes instáveis nos pipelines e ampliou a confiabilidade das análises de qualidade do produto."
+  Integrei testes automatizados e relatórios aos pipelines de CI/CD.,"Gerei relatórios Allure para testes desktop, de API e de interface e os publiquei em servidores HTTP internos por meio de pipelines Bitbucket e Jenkins."
+  Automatizei a preparação dos executores de testes Windows com uma solução documentada em Python e PowerShell.,Reduziu em 80% o esforço manual necessário para preparar a infraestrutura.
+  Desenvolvi uma Jenkins Shared Library reutilizável com Groovy e Python para o envio de notificações contextualizadas pelo Discord.,"Disponibilizou resultados de builds, histórico de commits, anexos e mensagens estruturadas com rich embeds diretamente pelos pipelines."
+  "Atuei como mentor de profissionais de qualidade, ensinando boas práticas de automação, fundamentos de programação, reutilização de código e organização de frameworks.",Contribuiu para acelerar o onboarding e aumentar a consistência técnica da equipe.
+soft_skills[6]: Mentoria técnica,Colaboração multifuncional com desenvolvedores,Comunicação e documentação de defeitos,Pensamento orientado a riscos de qualidade,Resolução de problemas com visão de engenharia,Compartilhamento de conhecimento
+quality_mindset[6]: Pensamento de qualidade baseado em riscos,Soluções reutilizáveis,Arquitetura escalável de testes,Manutenibilidade,Produtividade de engenharia,Detecção antecipada de defeitos
+testing_experience[10]: Testes End-to-End,Testes de regressão,Testes de integração,Testes de fumaça,Testes de APIs REST,Testes funcionais,Testes exploratórios,Validação de banco de dados,Retestes,Investigação de defeitos
