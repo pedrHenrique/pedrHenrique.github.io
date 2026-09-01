@@ -52,7 +52,7 @@ profile:
           context: "Automação de processos internos e suporte a pipelines e aplicações nos ambientes de desenvolvimento, homologação e produção."
           achievements[5]: "Desenvolvi e mantive pipelines Jenkins integrados aos processos de CI/CD para automatizar a execução de testes e a validação de deploys ao fim do dia. Incluindo a execução de collections Postman com Newman, o versionamento de arquivos de variáveis de ambiente não sensíveis, geração de relatórios Allure e publicação dos resultados em servidores web internos (Apache HTTP).","Desenvolvi scripts Python para consolidar informações de ferramentas como Jenkins, SonarQube e Kibana, automatizando consultas e o envio de relatórios para monitoramento interno.","Desenvolvi uma Jenkins Shared Library reutilizável com Groovy e Python para enviar notificações contextualizadas do Discord diretamente pelos pipelines, incluindo resultados de builds, histórico de commits, anexos e mensagens estruturadas com rich embeds.","Prestei suporte e realizei a manutenção dos ambientes de desenvolvimento, homologação e produção executados em máquinas virtuais hospedadas no Google Cloud Platform (GCP), trabalhando por meio de SSH e scripts de automação.","Investiguei e resolvi problemas envolvendo pipelines, aplicações Java e Angular e ferramentas internas por meio da análise de logs, serviços, arquivos de configuração e histórico de execução, restaurando fluxos de entrega e operações bloqueadas."
           tech_stack[14]: Python,Groovy,Jenkins,Postman,Newman,Allure Report,Apache HTTP Server,SonarQube,Kibana,Google Cloud Platform,SSH,Java,Angular,Tomcat
-        - title: DevOps Pleno
+        - title: QA Engineer Júnior
           period:
             start: 2021-11
             end: 2023-09
