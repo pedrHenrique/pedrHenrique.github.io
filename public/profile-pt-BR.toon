@@ -1,90 +1,486 @@
 meta:
   profile_owner: Pedro Henrique Leonardi Silva
-  profile_type: Perfil Profissional
-  version: 1.1.1
-  last_updated: 2026-08-28
+  version: 2.1.1
+  last_updated: 2026-09-29
   language: pt-BR
-  canonical_source: true
-  purpose[4]: Referência completa do histórico profissional,Correspondência com oportunidades de trabalho,Geração de currículos,Análise de carreira assistida por IA
+  purpose[4]: Referência completa do histórico profissional,Correspondência com oportunidades de trabalho,Base para adaptação e personalização de currículos,Análise de carreira assistida por IA
   secondary_sources:
     linkedin: "https://www.linkedin.com/in/pedrhenriquels/"
     github: "https://github.com/pedrHenrique"
 profile:
-  title: Engenheiro Sênior de Automação de Testes / SDET
+  title: Engenheiro de Automação de Testes
   primary_domain: Engenharia de Qualidade de Software e Automação de Testes
   contact:
     email: pedrleonardi@gmail.com
     location: "São Paulo, SP, Brasil"
   background[3]: Engenharia de Qualidade,Automação de Testes,DevOps
-  linkedin_summary:
-    headline: "Atuo há mais de 5 anos em Tecnologia e Qualidade de Software. Possuo perfil técnico e foco em entregas confiáveis para o produto, unindo visão de risco, colaboração próxima dos times e experiência profissional em Automação de Testes e DevOps."
-    overal_experience_summary: "Ao longo da carreira, contribuí para a qualidade de aplicações web, desktop e APIs por meio de testes funcionais, exploratórios, de integração, regressão, retestes, validações em bancos SQL e testes de API, sempre buscando identificar riscos antes que chegassem ao usuário. Também evoluí e construí projetos de automação, automatizei processos manuais, integrei ferramentas internas, criei pipelines de execução automatizada, mentorei profissionais de QA e construí frameworks para automação de testes, reduzindo, por exemplo, o tempo de um ciclo de regressão desktop de cerca de seis horas para uma hora, tornando os ciclos mais rápidos, confiáveis e sustentáveis para os times."
-    my_profile_motivations_wayofwork: "Sou motivado por contribuir com soluções que entreguem valor real. Colaboro com desenvolvedores, QA e produto para identificar riscos de qualidade desde o planejamento e a definição de requisitos até o desenvolvimento, a entrega e o acompanhamento em produção, ajudando a investigar defeitos até a causa raiz quando algo não vai como esperado. Também desenvolvo automações que reduzam tarefas repetitivas, acompanhem o crescimento do produto, sejam fáceis de adotar e manter, e tragam confiabilidade às novas versões. Prezo por entregas com intenção, qualidade e colaboração em todas as etapas."
-    main_technologies: "Utilizo principalmente Python, Java, Robot Framework, Cypress, Postman, Docker, Jenkins e Linux, mas tenho interesse genuíno em aprender e desenvolver novas tecnologias ou soluções que possam fazer a diferença e resolver problemas reais do dia a dia."
-    my_goal: "Busco continuar evoluindo como QA Engineer com o objetivo de me tornar um SDET no futuro, unindo profundo conhecimento em qualidade de software e capacidade técnica de atuar em problemas de engenharia maiores."
-    interests: "Meus interesses atuais incluem Qualidade de Software, Testes não Funcionais, Automação de Testes, CI/CD e Observabilidade aplicada à qualidade."
-  long_professional_summary: "Atuo há mais de 5 anos em Tecnologia e Qualidade de Software, com trajetória evolutiva nas áreas de DevOps, QA Engineering e Automação de Testes, alcançando a posição de Engenheiro Sênior de Automação de Testes. Possuo experiência no desenho, desenvolvimento e evolução de projetos de automação de testes para aplicações web, desktop e APIs, bem como na criação e manutenção de testes automatizados, utilizando principalmente Python, Cypress, Robot Framework, Postman, Newman e SQL. Tenho experiência na construção de frameworks de testes do zero, manutenção de projetos com mais de 400 testes E2E, aplicação de POM, Data-Driven Testing, execução baseada em tags, automação de APIs e integração dos testes a pipelines de CI/CD com Jenkins. Também possuo vivência em Docker, Linux, Ansible, geração de relatórios com Allure Report e desenvolvimento de automações e integrações em Python. Minha atuação vai além da execução de testes, tenho perfil técnico, pensamento crítico e orientação à qualidade do produto. Procuro compreender requisitos, regras de negócio, fluxos críticos e formas de contribuir para entregas confiáveis que atendam às expectativas dos usuários e as necessidades do time, atuando sempre de forma colaborativa e orientada resultados. Prezo pela combinação das visões de Qualidade de Software e DevOps, ampliando a cobertura, acelerando o feedback e aumentando a confiabilidade das versões, sempre com foco em antecipar e prevenir problemas, apoiar decisões e gerar valor."
+  profile_summary:
+    roles: "Atuo há mais de 5 anos em Tecnologia e Qualidade de Software, com atuação profissional nas áreas de DevOps, QA Engineering e Automação de Testes."
+    experience:
+      test_automation: "Possuo experiência no desenho, desenvolvimento e evolução de projetos de automação de testes para aplicações web, desktop e APIs, bem como na criação e manutenção de testes automatizados, utilizando Python, JavaScript, Java, Cypress, Robot Framework, Postman e Newman. Também possuo experiência na construção de frameworks de testes do zero, manutenção de projetos com mais de 400 testes E2E, aplicação de POM, Data-Driven Testing, execução baseada em tags, automação de APIs e integração dos testes a pipelines de CI/CD."
+      quality_assurance: "Atuei na análise de requisitos, planejamento e design de testes, priorização baseada em riscos, documentação e execução de estratégias manuais e automatizadas e validação de correções por meio de retestes. Apliquei testes funcionais, exploratórios, regressivos, de integração, de APIs, além de validações de banco de dados utilizando SQL."
+      devops: "Atuei no desenvolvimento de automações e integrações de processos internos com Python e Groovy, consolidação de informações, geração e envio de relatórios, criação de pipelines com Jenkins e Bitbucket Pipelines, e manutenção e resolução de problemas em aplicações web, APIs, banco de dados e ambientes de desenvolvimento, homologação e produção."
+    profile: "Tenho perfil técnico, pensamento crítico e orientação à qualidade do produto. Procuro compreender requisitos, regras de negócio, fluxos críticos e formas de contribuir para entregas confiáveis que atendam às expectativas dos usuários junto com as necessidades do time, atuando sempre de forma colaborativa e orientada a resultados."
+    objective: "Procuro oportunidades de Qualidade de Software que me permitam aplicar e ampliar minhas habilidades. Prezo pela combinação das visões de Qualidade de Software e DevOps, ampliando a cobertura, acelerando o feedback e aumentando a confiabilidade das versões, sempre com foco em antecipar e prevenir problemas, apoiar decisões e gerar valor."
+    long_term_goal: "Tenho objetivo de continuar me desenvolvendo na área de tecnologia, com foco em qualidade de Software. Aprendendo novas tecnologias, frameworks e formas de contribuir proativamente para a qualidade do produto e dos processos."
+    short: "Engenheiro de QA com 5+ anos em tecnologia (3+ dedicados a QA e automação) e background em DevOps. Especialista em automação E2E para desktop, web e APIs com Python, Robot Framework e Cypress. Construí do zero um framework que reduziu a regressão manual de 6h para 1h e evoluí uma suíte Cypress até 400+ testes E2E. Perfil técnico, colaborativo e orientado a resultados."
   professional_experience_summary:
-    experience_years: 5 anos e 9 meses em funções de software e tecnologia
-    qa_and_test_automation: 3 anos e 4 meses
-    devops: 2 anos e 8 meses
+    experience_years: 5 anos e 9 meses
+    qa_and_test_automation: 3 anos e 3 meses
+    devops: 2 anos e 6 meses
     senior_qa_automation: 1 ano e 5 meses
   companies[2]:
     - company: Contmatic Phoenix
       location: "São Paulo, SP, Brasil, Remoto"
       total_tenure: 5 anos e 9 meses
       roles[4]:
-        - title: Engenheiro Sênior de Automação de Testes
+        - id: senior-automation
+          title: Engenheiro Sênior de Automação de Testes
           period:
             start: 2024-10
             end: 2026-02
           duration: 1 ano e 5 meses
+          duration_months: 17
           area: Engenharia de Qualidade / Automação de Testes / Desenvolvimento de Frameworks de Testes
           context: Aplicações desenvolvidas em Delphi para o segmento fiscal e contábil.
-          achievements[7]: "Projetei e desenvolvi do zero um framework completo de automação de testes E2E para aplicações desktop utilizando Python e Robot Framework, reduzindo o tempo de regressão de aproximadamente seis horas para uma hora.",Automatizei com Bitbucket Pipelines/Runner a execução completa das suítes de testes desktop e a publicação dos resultados do Allure Report em servidores web internos.,"Desenvolvi uma solução em Python e PowerShell para instalar dependências e configurar máquinas virtuais Windows como executores dos testes desktop, reduzindo em 80% o esforço manual necessário para preparar a infraestrutura.","Atuei na mentoria de profissionais juniores de QA em boas práticas de automação de testes, código limpo e fundamentos de programação.","Planejei, documentei e executei estratégias de testes manuais e automatizados, abrangendo testes funcionais, exploratórios, regressivos, de integração e de APIs, além de validações de banco de dados utilizando SQL.","Investiguei e documentei defeitos, registrando contexto, pré-condições, etapas de reprodução, resultados esperados e obtidos, evidências, logs e impactos identificados.","Colaborei diretamente com desenvolvedores na reprodução de problemas, análise de causa raiz, validação de correções e execução de retestes antes de novos releases."
-          tech_stack[10]: Python,PowerShell,Robot Framework,Robocorp,Bitbucket Pipelines,Bitbucket Runner,Windows Server,Nginx,Docker,Allure Report
-        - title: Engenheiro DevOps Pleno
+          domain: Fiscal e contábil
+          achievements[7]{id,text}:
+            sr-01,"Projetei e desenvolvi do zero um framework de automação de testes E2E para desktop com Python e Robot Framework, estruturando componentes reutilizáveis para automatizar fluxos complexos de regressão, reduzindo o tempo de regressão de ~6 horas para 1 hora."
+            sr-02,"Integrei suítes de testes ao Bitbucket Pipelines e centralizei o envio dos relatórios Allure em servidores HTTP, acelerando a triagem de falhas e viabilizando a automação de CI/CD para testes de regressão desktop."
+            sr-03,"Desenvolvi uma solução em Python e PowerShell responsável por instalar dependências e configurar servidores Windows como executores dos testes desktop, documentando o processo e reduzindo em 80% o esforço manual de preparação da infraestrutura."
+            sr-04,"Atuei na mentoria de profissionais juniores de QA, disseminando boas práticas de automação, código limpo e programação, acelerando o onboarding no projeto."
+            sr-05,"Planejei, documentei e executei estratégias de testes manuais e automatizados, abrangendo testes funcionais, exploratórios, regressivos, de integração e de APIs, além de validações em bancos de dados com SQL."
+            sr-06,"Investiguei e documentei defeitos, registrando contexto, pré-requisitos, etapas de reprodução, resultado esperado, resultado obtido, evidências, logs e impactos identificados."
+            sr-07,"Colaborei diretamente com desenvolvedores na reprodução dos problemas, análise de causa, validação das correções e execução dos retestes antes de novos releases."
+          tech_stack[19]: Python,PowerShell,Robot Framework,Robocorp,Bitbucket Pipelines,Bitbucket Runner,TestComplete,Windows Server,Nginx,Docker,Allure Report,WinSCP,PostgreSQL,Ansible,Jira,Scrum,BDD,Linux,Testes funcionais
+        - id: devops-pleno
+          title: Engenheiro DevOps Pleno
           period:
             start: 2023-09
             end: 2024-10
-          duration: 1 ano e 2 meses
+          duration: 1 ano e 1 mês
+          duration_months: 13
           area: DevOps / CI/CD / Automação
-          context: "Automação de processos internos e suporte a pipelines e aplicações nos ambientes de desenvolvimento, homologação e produção."
-          achievements[5]: "Desenvolvi e mantive pipelines Jenkins integrados aos processos de CI/CD para automatizar a execução de testes e a validação de deploys ao fim do dia. Incluindo a execução de collections Postman com Newman, o versionamento de arquivos de variáveis de ambiente não sensíveis, geração de relatórios Allure e publicação dos resultados em servidores web internos (Apache HTTP).","Desenvolvi scripts Python para consolidar informações de ferramentas como Jenkins, SonarQube e Kibana, automatizando consultas e o envio de relatórios para monitoramento interno.","Desenvolvi uma Jenkins Shared Library reutilizável com Groovy e Python para enviar notificações contextualizadas do Discord diretamente pelos pipelines, incluindo resultados de builds, histórico de commits, anexos e mensagens estruturadas com rich embeds.","Prestei suporte e realizei a manutenção dos ambientes de desenvolvimento, homologação e produção executados em máquinas virtuais hospedadas no Google Cloud Platform (GCP), trabalhando por meio de SSH e scripts de automação.","Investiguei e resolvi problemas envolvendo pipelines, aplicações Java e Angular e ferramentas internas por meio da análise de logs, serviços, arquivos de configuração e histórico de execução, restaurando fluxos de entrega e operações bloqueadas."
-          tech_stack[14]: Python,Groovy,Jenkins,Postman,Newman,Allure Report,Apache HTTP Server,SonarQube,Kibana,Google Cloud Platform,SSH,Java,Angular,Tomcat
-        - title: QA Engineer Júnior
+          context: Aplicações web desenvolvidas em TypeScript com Angular e APIs REST desenvolvidas em Java 8 na arquitetura de microsserviços. Stack hospedada em servidores CentOS 8
+          domain: Ecossistema de microsserviços e produtos internos
+          achievements[5]{id,text}:
+            dv-01,"Desenvolvi e mantive pipelines Jenkins integrados ao ciclo de CI/CD para execução de testes, deploys, versionamento de artefatos, geração de relatórios, publicação de relatórios e validação de releases."
+            dv-02,"Desenvolvi scripts em Python para consolidar informações de ferramentas como Jenkins, SonarQube e Kibana, automatizando consultas e o envio de relatórios para acompanhamento interno."
+            dv-03,"Desenvolvi uma Jenkins Shared Library reutilizável com Groovy e Python para enviar notificações contextualizadas ao Discord diretamente pelos pipelines, incluindo resultados de builds, histórico de commits, anexos e mensagens estruturadas com embeds."
+            dv-04,"Apoiei a manutenção e sustentação de ambientes de desenvolvimento, homologação e produção em máquinas virtuais hospedadas na Google Cloud Platform (GCP), atuando via SSH e scripts."
+            dv-05,"Investiguei e corrigi problemas envolvendo pipelines, aplicações Java e Angular, além de ferramentas da stack interna, analisando logs, serviços, arquivos de configuração e histórico de execuções para restabelecer fluxos de entrega e operações bloqueadas."
+          tech_stack[21]: Python,Java,Groovy,JavaScript,Jenkins,Postman,Newman,Angular,Allure Report,SonarQube,Kibana,Google Cloud Platform,SSH,Red Hat Linux,Nexus Repository,Apache HTTP Server,Tomcat,Maven,SQL,GitLab,Linux
+        - id: qa-junior
+          title: QA Engineer Júnior
           period:
             start: 2021-11
             end: 2023-09
-          duration: 1 ano e 11 meses
+          duration: 1 ano e 10 meses
+          duration_months: 22
           area: Qualidade de Software / Automação de Testes / Desenvolvimento de Funcionalidades para Aplicações Backend em Java
-          context: ERP dos segmentos fiscal e financeiro.
-          achievements[4]: "Desempenhei um papel importante na implementação e evolução de um projeto de automação E2E com Cypress e JavaScript contendo mais de 400 testes para uma plataforma ERP dos segmentos fiscal e financeiro, aplicando Page Object Model, Data-Driven Testing, execução baseada em tags, recuperação automatizada e suporte a múltiplos ambientes para aumentar a estabilidade e reduzir falhas falsas nos pipelines.","Criei e executei collections de testes de APIs REST no Postman, utilizando variáveis de ambiente, scripts de pré-requisição e asserções automatizadas para validar códigos de status HTTP, mensagens e payloads de resposta, regras de negócio e integrações entre serviços.",Contribuí para o desenvolvimento de novas funcionalidades backend e testes unitários utilizando Java e JUnit.,"Participei de cerimônias ágeis, sessões de refinamento e discussões técnicas com as equipes de produto e engenharia, analisando requisitos, documentando cenários de teste e executando testes funcionais e de integração para validar regras de negócio."
-          tech_stack[8]: Cypress,JavaScript,Page Object Model,Data-Driven Testing,Tag-Based Test Execution,Postman,Java,JUnit
-        - title: Estagiário em DevOps
+          context: Testes em um produto web ainda em desenvolvimento (Simplifique) e testes de APIs REST internas para comunicação com prefeituras do Brasil.
+          domain: Ecossistema de microsserviços e produtos em desenvolvimento
+          achievements[4]{id,text}:
+            qa-01,"Assumi progressivamente a arquitetura e a liderança técnica de um projeto de automação em Cypress/JavaScript, que evoluiu de ~50 para mais de 400 testes E2E em um ERP fiscal-financeiro, aplicando Page Object Model, Data-Driven Testing, componentes reutilizáveis, execução seletiva por tags, mecanismos de autorrecuperação e configurações multiambiente, aumentando a estabilidade das suítes e reduzindo falsos positivos nos pipelines."
+            qa-02,"Testei regras de negócio e integrações entre serviços criando e executando collections de API REST com Postman, aplicando encadeamento de requisições, retries e testes de cenários negativos, variáveis de ambiente, scripts de pré-requisição, e asserções para validar códigos de status, mensagens, dados das respostas, regras de negócio e integrações entre serviços."
+            qa-03,Contribuí para o desenvolvimento de novas funcionalidades backend e testes unitários utilizando Java e JUnit.
+            qa-04,"Participei de cerimônias ágeis, refinamentos e alinhamentos com profissionais de produto e desenvolvimento, analisando requisitos, documentando cenários e executando testes funcionais e de integração para validar regras de negócio."
+          tech_stack[15]: Cypress,Jenkins,JavaScript,Page Object Model,Data-Driven Testing,Tag-Based Test Execution,Postman,JUnit,Java,Maven,Jira,GitLab,BDD,Linux,Testes funcionais
+        - id: devops-intern
+          title: Estagiário em DevOps
           period:
             start: 2020-06
             end: 2021-11
-          duration: 1 ano e 6 meses
+          duration: 1 ano e 5 meses
+          duration_months: 17
           area: DevOps / Engenharia de Software
-          responsibilities[4]: "Apoiei processos de DevOps, automação, desenvolvimento de software, integração contínua e entrega contínua.","Desenvolvi uma base prática em programação, automação, qualidade de software e práticas de engenharia.",Apoiei equipes técnicas em demandas operacionais e na evolução dos processos de desenvolvimento e entrega.,"Mentorado por: Silvano Pessoa, Andre Crespo"
+          achievements[3]{id,text}:
+            in-01,"Apoiei processos de DevOps, automação, desenvolvimento de software, integração contínua e entrega contínua."
+            in-02,"Desenvolvi base prática em programação, automação e boas práticas de engenharia."
+            in-03,Apoiei equipes técnicas em demandas operacionais e na evolução dos processos de desenvolvimento e entrega.
+          tech_stack[7]: Java,JUnit,Maven,Jenkins,Python,GitLab,SonarQube
     - company: Condvolt Fios e Cabos
       location: "São Paulo, SP, Brasil"
       total_tenure: 1 ano
-      roles[1]{title,period{start,end},duration,area}:
-        Jovem Aprendiz Expedição; Logística,2018-06,2019-05,1 ano,Expedição / Logística
-  education[2]{degree,institution,period{start,end},completed}:
-    Bacharelado em Ciência da Computação,Universidade Paulista - UNIP,2019-03,2023-03,2023
-    Ensino Médio com Técnico em Informática,Etec Prof. Adhemar Batista Heméritas,"2015","2017",2017
+      roles[1]:
+        - title: Jovem Aprendiz
+          period:
+            start: 2018-06
+            end: 2019-05
+          duration: 1 ano
+          area: Expedição / Logística
+  education[3]:
+    - type: course
+      degree: Engenharia de QA
+      institution: Mate Academy
+      period:
+        start: 2026-06
+        end: ""
+      year: 2026
+      description: Aprofundamento teórico em fundamentos de qualidade de software.
+    - type: bachelor's degree
+      degree: Bacharelado em Ciência da Computação
+      institution: Universidade Paulista - UNIP
+      period:
+        start: 2019-03
+        end: 2023-03
+      completed: 2023
+    - type: course
+      degree: Ensino Médio com Técnico em Informática
+      institution: Etec Prof. Adhemar Batista Heméritas
+      period:
+        start: "2015"
+        end: "2017"
+      completed: 2017
   languages:
     english: B2 - Intermediário-avançado / Proficiência profissional de trabalho
-demonstrated_outcomes[6]{achievement,impact}:
-  Desenvolvi do zero um framework completo de automação de testes E2E para desktop.,"Possibilitou a automação de testes para aplicações desktop desenvolvidas em Delphi, reduziu o tempo de execução da regressão de aproximadamente seis horas para uma hora e permitiu que outros profissionais de QA contribuíssem com o projeto e com a automação dos testes."
-  "Desempenhei um papel importante na implementação e evolução de um projeto de automação com Cypress e JavaScript contendo mais de 400 testes E2E, aplicando execução baseada em tags, Data-Driven Testing, recuperação automatizada e configuração para múltiplos ambientes.","Facilitou a manutenção e a automação contínua de novos casos de teste, reduziu falhas falsas e testes instáveis nos pipelines e ampliou a confiabilidade das análises de qualidade do produto."
-  Integrei testes automatizados e relatórios aos pipelines de CI/CD.,"Gerei relatórios Allure para testes desktop, de API e de interface e os publiquei em servidores HTTP internos por meio de pipelines Bitbucket e Jenkins."
-  Automatizei a preparação dos executores de testes Windows com uma solução documentada em Python e PowerShell.,Reduziu em 80% o esforço manual necessário para preparar a infraestrutura.
-  Desenvolvi uma Jenkins Shared Library reutilizável com Groovy e Python para o envio de notificações contextualizadas pelo Discord.,"Disponibilizou resultados de builds, histórico de commits, anexos e mensagens estruturadas com rich embeds diretamente pelos pipelines."
-  "Atuei como mentor de profissionais de qualidade, ensinando boas práticas de automação, fundamentos de programação, reutilização de código e organização de frameworks.",Contribuiu para acelerar o onboarding e aumentar a consistência técnica da equipe.
-soft_skills[6]: Mentoria técnica,Colaboração multifuncional com desenvolvedores,Comunicação e documentação de defeitos,Pensamento orientado a riscos de qualidade,Resolução de problemas com visão de engenharia,Compartilhamento de conhecimento
-quality_mindset[6]: Pensamento de qualidade baseado em riscos,Soluções reutilizáveis,Arquitetura escalável de testes,Manutenibilidade,Produtividade de engenharia,Detecção antecipada de defeitos
-testing_experience[10]: Testes End-to-End,Testes de regressão,Testes de integração,Testes de fumaça,Testes de APIs REST,Testes funcionais,Testes exploratórios,Validação de banco de dados,Retestes,Investigação de defeitos
+  personal_projects:
+    items[0]:
+demonstrated_outcomes[4]:
+  - id: out-01
+    achievement: Fui responsável pela concepção e construção do zero de um framework de automação de testes E2E para aplicações desktop feitas em Delphi.
+    context: "A equipe de qualidade perdia muito tempo com testes regressivos, em média, 1-2 QAs por produto poderiam perder o dia só para garantir a regressão. A ideia era reduzir custos com ferramentas pagas e poupar tempo para atividades mais produtivas. Eu fui o responsável por visualizar a combinação de ferramentas que juntas, poderiam construir um framework que pudesse automatizar esses testes."
+    implementation: "O framework foi desenvolvido com Python e Robot Framework, utilizando componentes reutilizáveis, Page Object Model, tags, bibliotecas e keywords customizados. A suíte de testes automatizados foi integrada a pipelines com Bitbucket Pipelines/Runner e os resultados eram publicados em servidores HTTP internos (Nginx)."
+    impact[3]: "Reduziu o tempo do teste de regressão que exigia em média seis horas de trabalho manual, de um ou mais profissionais de QA, para aproximadamente uma hora.","O framework tornou a regressão menos exaustiva e mais assertiva, foi adotado pela equipe e serviu como primeiro contato com automação para vários profissionais.","Três engenheiros de QA passaram a desenvolver automações para outros sistemas, como também contribuir para a evolução do projeto."
+    source_achievements[2]: sr-01,sr-02
+  - id: out-02
+    achievement: "Assumi a arquitetura e a liderança técnica de um projeto de automação com Cypress e JavaScript, evoluindo a suíte de ~50 para mais de 400 testes E2E."
+    context: "Comecei contribuindo com a criação e manutenção dos testes, após a saída do sênior responsável, progressivamente fui assumindo a arquitetura e a liderança técnica do projeto. Durante minha participação, a suíte evoluiu de aproximadamente 50 para 400 testes E2E em Cypress com JavaScript."
+    implementation: "Implementei Page Object Model, comandos customizados, execução por tags, massa de dados, Data-Driven Testing, configuração multiambiente, esperas dinâmicas e restauração automatizada do estado-base."
+    impact[3]: "Recuperamos a confiabilidade do projeto que havia se tornado frágil, tornando seus relatórios mais coerentes com a condição real do produto.","A solução facilitou a manutenção e a criação contínua de testes, permitindo que mais tempo fosse dedicado criando novos testes, ao invés de apenas correção dos testes.",Os testes eram executados durante a madrugada e apoiavam decisões sobre a qualidade das entregas.
+    source_achievements[1]: qa-01
+  - id: out-03
+    achievement: Desenvolvi e evoluí pipelines integrados ao fluxo de CI/CD para execução automatizada dos projetos de teste.
+    context: "Desenvolvi e corrigi pipelines com Jenkins (integrados ao fluxo de CI/CD) e Bitbucket Pipelines/Runner. Era responsável por garantir a executabilidade das suites, configuração e manutenção do ambiente, geração de relatórios Allure Report e publicação dos resultados via SSH ou WinSCP em servidores HTTP internos (Apache/Nginx)."
+    impact[3]: Centralizou os resultados em relatórios Allure publicados em servidores HTTP.,"Proporcionou feedback mais rápido sobre a qualidade das entregas, também como uma visão geral do estado do produto.",Reduziu a dependência de comunicação informal sobre as falhas e facilitou a investigação e a validação de defeitos.
+    source_achievements[2]: sr-02,dv-01
+  - id: out-04
+    achievement: Automatizei a preparação dos executores de testes automatizados desktop Windows com uma solução em Python e PowerShell.
+    context: "A solução instalava e configurava toda a stack necessária para execução dos testes nos pipelines, instalando: Bitbucket Runner, Java, WinSCP, Allure Report, Git, PostgreSQL, o produto testado e os scripts PowerShell necessários para a execução automatizada."
+    implementation: "Separei as dependências por módulos, garanti a idempotência, tratei possíveis edge cases da execução e documentei a necessidade de cada item da stack. Utilizei IA (Gemini) para ajuda na criação dos scripts."
+    impact[2]: "A solução reduziu o esforço manual em 80% e concentrou o procedimento necessário para reproduzir o ambiente, diminuindo a dependência de conhecimento não documentado e muito específico, sendo projetada para facilitar futuras configurações por outros profissionais.",Automatizou grande parte da configuração necessária que podia exigir 5 horas ou mais de trabalho manual e conhecimento específico sobre diversas ferramentas.
+    source_achievements[1]: sr-03
+skills:
+  technical[34]:
+    - id: skill-web-test-automation
+      skill: Web Test Automation
+      category: test_automation
+      tier: core
+      experience_in_years: ~2
+      documented_professional_months: 22
+      documented_in_roles[1]: qa-junior
+      used_at: Contmatic Phoenix
+      know_how: "Desenho de frameworks de testes, Page Object Model, Data-Driven Testing, execução baseada em tags, componentes e comandos reutilizáveis, esperas dinâmicas, configuração multiambiente, coleta de evidências, relatórios de testes, estabilidade e manutenção de suítes E2E, integração com CI/CD"
+      tools: "Cypress, Allure Report"
+    - id: skill-api-test-automation
+      skill: API Test Automation
+      category: test_automation
+      tier: core
+      experience_in_years: "2"
+      documented_professional_months: 35
+      documented_in_roles[2]: qa-junior,devops-pleno
+      used_at: Contmatic Phoenix
+      know_how: "Planejamento e modelagem de testes de APIs REST, criação de collections reutilizáveis, variáveis de ambiente, scripts de pré-requisição, encadeamento de requisições, asserções de status, headers, payloads e regras de negócio, testes de integração entre serviços, execução em CI/CD e geração de relatórios"
+      tools: "Postman, Newman, Cypress, Allure Report"
+    - id: skill-robot-framework
+      skill: Robot Framework
+      category: test_automation
+      tier: core
+      experience_in_years: +1
+      documented_professional_months: 17
+      documented_in_roles[1]: senior-automation
+      used_at: Contmatic Phoenix
+      know_how: "Arquitetura e desenvolvimento de frameworks, automação orientada a keywords, criação de keywords e componentes reutilizáveis, resources e variables, integração com bibliotecas Python, setups e teardowns, Data-Driven Testing, execução baseada em tags, automação E2E desktop, configuração de ambientes, geração de Allure Report, criação de arquiteturas, componentes, logs e bibliotecas para automação de testes"
+    - id: skill-cypress
+      skill: Cypress
+      category: test_automation
+      tier: core
+      experience_in_years: ~2
+      documented_professional_months: 22
+      documented_in_roles[1]: qa-junior
+      used_at: Contmatic Phoenix
+      know_how: "Arquitetura de projetos E2E, Page Object Model, comandos e componentes reutilizáveis, fixtures e massa de dados, Data-Driven Testing, execução baseada em tags, esperas e sincronização, mecanismos de recuperação, configuração multiambiente, coleta de evidências, relatórios com Allure e integração com CI/CD"
+    - id: skill-postman
+      skill: Postman
+      category: test_automation
+      tier: core
+      experience_in_years: ~3
+      documented_professional_months: 35
+      documented_in_roles[2]: qa-junior,devops-pleno
+      used_at: Contmatic Phoenix
+      know_how: "Criação e organização de collections, requisições de APIs REST, variáveis de ambiente e collection, scripts de pré-requisição, asserções em JavaScript, validação de status, headers, payloads e regras de negócio, encadeamento de requisições, execução com Newman"
+    - id: skill-newman
+      skill: Newman
+      category: test_automation
+      tier: core
+      experience_in_years: +1
+      documented_professional_months: 13
+      documented_in_roles[1]: devops-pleno
+      used_at: Contmatic Phoenix
+      know_how: "Execução de collections pela linha de comando, uso de environments e variáveis, parâmetros de execução, integração com pipelines CI/CD, controle do resultado por exit code, geração e publicação de relatórios Allure"
+    - id: skill-testcomplete
+      skill: TestComplete
+      category: test_automation
+      tier: secondary
+      experience_in_years: <1
+      documented_professional_months: 6
+      documented_in_roles[1]: senior-automation
+      used_at: Contmatic Phoenix
+      know_how: "Criação e administração de projetos, versionamento de projetos, tratamento de erros, integração a CI/CD com Jenkins."
+    - id: skill-quality-assurance
+      skill: Quality Assurance
+      category: quality
+      tier: core
+      experience_in_years: "3"
+      documented_professional_months: 39
+      documented_in_roles[2]: qa-junior,senior-automation
+      used_at: Contmatic Phoenix
+      know_how: "Análise de requisitos e regras de negócio, planejamento e estratégia de testes, design e documentação de casos de teste, priorização baseada em riscos, testes funcionais, exploratórios, regressivos, de fumaça, E2E, de integração e de APIs, validação de dados (SQL), retestes, investigação e documentação de defeitos, análise de causa, validação de correções, SDLC e STLC"
+      tools: "Jira, Allure Report, Kibana, SonarQube"
+    - id: skill-python
+      skill: Python
+      category: languages
+      tier: core
+      experience_in_years: +5
+      documented_professional_months: 47
+      documented_in_roles[3]: senior-automation,devops-pleno,devops-intern
+      used_at: "Contmatic Phoenix, Universidade Paulista Unip"
+      know_how: "Programação orientada a objetos, estruturas de dados, comprehensions, funções, *args e **kwargs, decorators, context managers, magic methods, manipulação de arquivos, tratamento de exceções, logging, automação de processos, desenvolvimento de frameworks de testes, geração de relatórios"
+    - id: skill-jenkins
+      skill: Jenkins
+      category: ci_cd_devops
+      tier: core
+      experience_in_years: +4
+      documented_professional_months: 30
+      documented_in_roles[2]: devops-pleno,devops-intern
+      used_at: Contmatic Phoenix
+      know_how: "Criação e manutenção de pipelines, Pipeline as Code, pipelines declarativos e scripts Groovy, parâmetros e variáveis, execução agendada, integração de testes automatizados, Jenkins Shared Libraries, consumo da API do Jenkins, geração e publicação de artefatos e relatórios, análise de logs e troubleshooting de builds"
+    - id: skill-junit
+      skill: JUnit
+      category: test_automation
+      tier: secondary
+      experience_in_years: "1"
+      documented_professional_months: 39
+      documented_in_roles[2]: qa-junior,devops-intern
+      used_at: Contmatic Phoenix
+      know_how: "Criação de testes unitários, anotações de teste, asserções, ciclo de vida dos testes, organização de classes de teste e execução com Maven"
+    - id: skill-jira
+      skill: Jira
+      category: quality
+      tier: secondary
+      experience_in_years: +3
+      documented_professional_months: 0
+      documented_in_roles[0]:
+      used_at: Contmatic Phoenix
+      know_how: "Criação e acompanhamento de tarefas e bugs, user stories, backlog, sprints, workflows e status, comentários, anexos, evidências e rastreabilidade do trabalho"
+    - id: skill-bdd
+      skill: BDD
+      category: quality
+      tier: secondary
+      experience_in_years: +3
+      documented_professional_months: 0
+      documented_in_roles[0]:
+      used_at: Contmatic Phoenix
+      know_how: "Especificação de comportamentos com Gherkin, cenários Given-When-Then e uso de tags"
+    - id: skill-java
+      skill: Java
+      category: languages
+      tier: core
+      experience_in_years: +5
+      documented_professional_months: 52
+      documented_in_roles[3]: devops-pleno,qa-junior,devops-intern
+      used_at: "Contmatic Phoenix, Universidade Paulista Unip, Etec Prof. Adhemar Batista Heméritas"
+      know_how: "Java 8, programação orientada a objetos, classes e interfaces, collections, tratamento de exceções, manipulação de dados, desenvolvimento de funcionalidades backend, APIs REST, testes unitários com JUnit, gerenciamento de dependências e builds com Maven"
+    - id: skill-javascript
+      skill: JavaScript
+      category: languages
+      tier: secondary
+      experience_in_years: ~2
+      documented_professional_months: 35
+      documented_in_roles[2]: devops-pleno,qa-junior
+      used_at: Contmatic Phoenix
+      know_how: "Fundamentos da linguagem, ES6+, funções, arrays e objetos, módulos, manipulação de JSON, assincronismo com Promises e async/await, tratamento de erros, automação de testes com Cypress, Node.js e npm"
+    - id: skill-sql
+      skill: SQL
+      category: languages
+      tier: secondary
+      experience_in_years: +3
+      documented_professional_months: 17
+      documented_in_roles[2]: senior-automation,devops-pleno
+      used_at: Contmatic Phoenix
+      know_how: "Consultas SELECT, filtros e ordenação, JOINs, agregações e GROUP BY, subconsultas, operações CRUD, validação de dados, investigação de inconsistências e consultas para apoio a testes"
+      tools: "PostgreSQL, MySQL"
+    - id: skill-groovy
+      skill: Groovy
+      category: languages
+      tier: secondary
+      experience_in_years: +1
+      documented_professional_months: 13
+      documented_in_roles[1]: devops-pleno
+      used_at: Contmatic Phoenix
+      know_how: "Fundamentos da linguagem, scripts, variáveis, estruturas condicionais e de repetição, collections, Jenkins Pipeline e desenvolvimento de Jenkins Shared Libraries"
+    - id: skill-docker
+      skill: Docker
+      category: ci_cd_devops
+      tier: secondary
+      experience_in_years: +1
+      documented_professional_months: 17
+      documented_in_roles[1]: senior-automation
+      used_at: Contmatic Phoenix
+      know_how: "Imagens e contêineres, execução e inspeção de contêineres, Dockerfile, docker-compose, variáveis de ambiente, volumes, redes e análise básica de logs"
+    - id: skill-linux
+      skill: Linux
+      category: ci_cd_devops
+      tier: secondary
+      experience_in_years: +5
+      documented_professional_months: 13
+      documented_in_roles[3]: senior-automation,devops-pleno,qa-junior
+      used_at: "Contmatic Phoenix, uso pessoal"
+      know_how: "Linha de comando e shell, sistema de arquivos, permissões, usuários, processos e serviços, gerenciamento de pacotes, variáveis de ambiente, acesso remoto com SSH, análise de logs, configuração de aplicações e troubleshooting de ambientes"
+    - id: skill-sonarqube
+      skill: SonarQube
+      category: ci_cd_devops
+      tier: secondary
+      experience_in_years: +2
+      documented_professional_months: 13
+      documented_in_roles[2]: devops-pleno,devops-intern
+      used_at: Contmatic Phoenix
+      know_how: "Análise de qualidade de código, Quality Gates, bugs, vulnerabilidades e code smells, cobertura e duplicação, consulta de resultados via API, integração com pipelines e acompanhamento de métricas"
+    - id: skill-kibana
+      skill: Kibana
+      category: ci_cd_devops
+      tier: secondary
+      experience_in_years: +1
+      documented_professional_months: 13
+      documented_in_roles[1]: devops-pleno
+      used_at: Contmatic Phoenix
+      know_how: "Consulta, busca e filtragem de logs, seleção de intervalos de tempo, investigação de eventos, uso do Discover, consultas via API e apoio ao troubleshooting de aplicações"
+    - id: skill-git
+      skill: Git
+      category: version_control
+      tier: secondary
+      experience_in_years: +5
+      documented_professional_months: 0
+      documented_in_roles[0]:
+      used_at: "Contmatic Phoenix, Universidade Paulista Unip, Projetos pessoais"
+      know_how: "Commits, branches, tags, merge, rebase, stash, cherry-pick, revert, pull requests, code review, resolução de conflitos, Git Hooks e fluxos de trabalho com Git"
+    - id: skill-github
+      skill: GitHub
+      category: version_control
+      tier: secondary
+      experience_in_years: +5
+      documented_professional_months: 0
+      documented_in_roles[0]:
+      used_at: "Universidade Paulista Unip, Projetos pessoais"
+      know_how: "Code, review, pull requests, issues"
+    - id: skill-gitlab
+      skill: GitLab
+      category: version_control
+      tier: secondary
+      experience_in_years: "4"
+      documented_professional_months: 0
+      documented_in_roles[0]:
+      used_at: Contmatic Phoenix
+      know_how: "Code review, pull requests, issues, repository management"
+    - id: skill-bitbucket
+      skill: Bitbucket
+      category: version_control
+      tier: secondary
+      experience_in_years: +1
+      documented_professional_months: 17
+      documented_in_roles[1]: senior-automation
+      used_at: Contmatic Phoenix
+      know_how: "Code review, pull requests, issues, pipelines, runners, secrets, and repository management"
+    - id: skill-scrum
+      skill: Scrum
+      category: process
+      tier: secondary
+      experience_in_years: +3
+      documented_professional_months: 22
+      documented_in_roles[2]: qa-junior,senior-automation
+      used_at: Contmatic Phoenix
+      know_how: "Papéis, eventos e artefatos do Scrum."
+    - id: skill-kanban
+      skill: Kanban
+      category: process
+      tier: secondary
+      experience_in_years: +3
+      documented_professional_months: 0
+      documented_in_roles[0]:
+      used_at: Contmatic Phoenix
+      know_how: Gestão visual do fluxo de trabalho e definição e acompanhamento de etapas
+    - id: skill-uso-de-ia-generativa
+      skill: Uso de IA generativa
+      category: ai
+      tier: secondary
+      experience_in_years: <1
+      documented_professional_months: 0
+      documented_in_roles[0]:
+      used_at: "Contmatic Phoenix, Projetos Pessoais"
+      know_how: "Documentação Técnica, Revisão de Código, Geração de Código, Sugestões de Casos de Teste, apoio a automação."
+      tools: "Codex, GitHub Copilot"
+    - id: skill-playwright
+      skill: Playwright
+      category: test_automation
+      tier: familiar
+      experience_in_years: <1
+      documented_professional_months: 0
+      documented_in_roles[0]:
+      used_at: Projetos Pessoais
+      know_how: "Configuração inicial, estrutura de testes, locators, ações de navegação e interação, asserções, execução em modo headless e headed, captura de screenshots e fundamentos de automação web"
+    - id: skill-selenium-webdriver
+      skill: Selenium WebDriver
+      category: test_automation
+      tier: familiar
+      experience_in_years: <1
+      documented_professional_months: 0
+      documented_in_roles[0]:
+      used_at: Cursos Práticos e Estudos
+      know_how: "Automatização de navegadores, localização de elementos, ações de navegação e interação, asserções e execução de testes"
+    - id: skill-rest-assured
+      skill: REST Assured
+      category: test_automation
+      tier: familiar
+      experience_in_years: <1
+      documented_professional_months: 0
+      documented_in_roles[0]:
+      used_at: Cursos Práticos e Estudos
+      know_how: "Testes de API REST, criação de requisições, validação de respostas, asserções e execução de testes"
+    - id: skill-testrail
+      skill: TestRail
+      category: quality
+      tier: familiar
+      experience_in_years: <1
+      documented_professional_months: 0
+      documented_in_roles[0]:
+      used_at: Mate Academy
+      know_how: "Criação e organização de casos e suítes de teste, execução de test runs, registro de resultados, anexação de evidências e fundamentos de rastreabilidade de defeitos"
+    - id: skill-cpp
+      skill: C++
+      category: languages
+      tier: familiar
+      experience_in_years: <1
+      documented_professional_months: 0
+      documented_in_roles[0]:
+      used_at: "Universidade Paulista Unip, Projetos pessoais"
+      know_how: "Fundamentos da linguagem, classes, funções, chamadas de APIs e tratamento de exceções"
+    - id: skill-ansible
+      skill: Ansible
+      category: ci_cd_devops
+      tier: familiar
+      experience_in_years: <1
+      documented_professional_months: 17
+      documented_in_roles[1]: senior-automation
+      used_at: Contmatic Phoenix
+      know_how: "Inventários, playbooks em YAML, tasks, modules, variables, execução de playbooks e fundamentos de automação idempotente de configuração"
+certifications[2]:
+  - title: "Integração contínua com testes, utilizando Jenkins"
+    issuer: Udemy
+    skills[8]: Integração Contínua,Entrega Contínua,Jenkins,Selenium WebDriver,REST Assured,JUnit,SonarQube,PostgreSQL
+    date: 20/08/2020
+    certificate_url: "https://www.udemy.com/certificate/UC-744d2ef9-b1d5-4da4-a47d-e7486c0097e7/"
+  - title: QA Theory
+    issuer: Mate Academy
+    skills[16]: "Casos de Teste: boas práticas, priorização, taxas de execução e aprovação","Plano de Testes: análise de produto, desenvolvimento de estratégia, objetivo, critérios de aceite, planejamento de recursos e criação de relatório de testes",Decomposição,"Testes Funcionais: unidade, integração, sistema, aceitação, regressão, fumaça, exploratórios","Testes Não Funcionais: usabilidade, desempenho, GUI, localização, compatibilidade, segurança",Matriz de Rastreabilidade de Requisitos,"Técnicas de Design de Teste: classes de equivalência, análise de valores limites, pairwise, testes de risco e permissões",Princípios de Teste,SDLC (Software Development Life Cycle),STLC (Software Testing Life Cycle),Análise de requisitos e critérios de aceite,Priorização com base em risco,Jira,TestRail,Scrum,Kanban
+    date: 28/09/2026
+    certificate_url: "https://static.mate.academy/certificates/production/1436647/154596/212b541c-4215-429e-b1e7-9cc3036e5fb6/silva-certificate.pdf"
