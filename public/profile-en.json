@@ -1,8 +1,8 @@
 {
   "meta": {
     "profile_owner": "Pedro Henrique Leonardi Silva",
-    "version": "2.1.1",
-    "last_updated": "2026-09-29",
+    "version": "2.1.2",
+    "last_updated": "2026-10-01",
     "language": "en",
     "purpose": [
       "Complete professional background reference",
@@ -70,27 +70,31 @@
               },
               {
                 "id": "sr-02",
-                "text": "Integrated test suites with Bitbucket Pipelines and centralized Allure report publishing on HTTP servers, speeding up failure triage and enabling CI/CD automation for desktop regression testing."
+                "text": "Integrated desktop test suites with Bitbucket Pipelines and centralized Allure report publishing on HTTP servers, speeding up failure triage and enabling CI/CD automation for desktop regression testing."
               },
               {
                 "id": "sr-03",
-                "text": "Developed a Python and PowerShell solution to install dependencies and configure Windows servers as desktop test runners, documented the process, and reduced manual infrastructure setup effort by 80%."
+                "text": "Developed a Python and PowerShell solution to install dependencies and configure Windows servers as desktop test runners. Built it with modular scripts, idempotent, and documented the entire process, reducing manual infrastructure setup effort by approximately 80%. Used AI to help write the scripts."
               },
               {
                 "id": "sr-04",
-                "text": "Mentored junior QA professionals in automation best practices, clean code, and programming, accelerating their onboarding to the project."
+                "text": "Mentored QA professionals in automation best practices, clean code, and programming, helping them get up to speed with the test automation framework."
               },
               {
                 "id": "sr-05",
-                "text": "Planned, documented, and executed manual and automated testing strategies covering functional, exploratory, regression, integration, and API testing, as well as database validation using SQL."
+                "text": "Worked with Product and Development to analyze requirements and acceptance criteria, assess risks and context, define test strategies, structure test plans, and write positive and negative test scenarios in Gherkin."
               },
               {
                 "id": "sr-06",
-                "text": "Investigated and documented defects, recording context, prerequisites, steps to reproduce, expected and actual results, evidence, logs, and identified impacts."
+                "text": "Performed functional, regression, exploratory, sanity, and integration testing across web and desktop applications and APIs, and used SQL to validate data persistence and consistency."
               },
               {
                 "id": "sr-07",
-                "text": "Collaborated directly with developers to reproduce issues, analyze their causes, validate fixes, and retest before new releases."
+                "text": "Logged defects in Jira, documenting prerequisites, reproduction steps, priority, expected and actual results, evidence, logs, and observed impact."
+              },
+              {
+                "id": "sr-08",
+                "text": "Worked with developers to reproduce defects and analyze root causes, clarified issues with product owners, tracked fixes, and retested and validated features before releases."
               }
             ],
             "tech_stack": [
@@ -111,8 +115,7 @@
               "Jira",
               "Scrum",
               "BDD",
-              "Linux",
-              "Functional Testing"
+              "Linux"
             ]
           },
           {
@@ -188,11 +191,11 @@
             "achievements": [
               {
                 "id": "qa-01",
-                "text": "Progressively took ownership of the architecture and technical leadership of a Cypress/JavaScript automation project that grew from approximately 50 to over 400 E2E tests for a tax and financial ERP. Applied Page Object Model, Data-Driven Testing, reusable components, selective tag-based execution, self-recovery mechanisms, and multi-environment configurations to improve suite stability and reduce false positives in pipelines."
+                "text": "Progressively took ownership of the architecture and technical leadership of a Cypress/JavaScript automation project that grew from approximately 50 to over 400 E2E tests for a web-based ERP. Applied Page Object Model, Data-Driven Testing, reusable components, selective tag-based execution, self-recovery mechanisms, and multi-environment configurations to improve suite stability and reduce false positives in pipelines."
               },
               {
                 "id": "qa-02",
-                "text": "Tested business rules and service integrations by creating and running REST API collections in Postman, using request chaining, retries, negative test scenarios, environment variables, pre-request scripts, and assertions to validate status codes, messages, response data, business rules, and integrations between services."
+                "text": "Tested business rules and service integrations by creating and running REST API collections in Postman, using request chaining, retries, timeouts, environment variables, scripts, and assertions to validate status codes, messages, response fields, business rules, and integrations between services."
               },
               {
                 "id": "qa-03",
@@ -318,7 +321,7 @@
     {
       "id": "out-01",
       "achievement": "Designed and built an E2E test automation framework from scratch for desktop applications developed in Delphi.",
-      "context": "The quality team spent a significant amount of time on regression testing: one or two QA professionals per product could spend an entire day ensuring regression coverage. The goal was to reduce spending on paid tools and free up time for more productive activities. I identified a combination of tools that could work together to build a framework capable of automating these tests.",
+      "context": "The quality team spent a significant amount of time on regression testing: one or two QA professionals per product could spend almost an entire day ensuring regression coverage. The goal was to reduce spending on paid tools and free up time for more productive activities, while maintaining quality assurance. I conceived, planned, presented, and built a framework to address this problem.",
       "implementation": "The framework was developed with Python and Robot Framework, using reusable components, Page Object Model, tags, custom libraries, and custom keywords. The automated test suite was integrated into pipelines with Bitbucket Pipelines/Runner, and results were published on internal HTTP servers (Nginx).",
       "impact": [
         "Reduced regression testing time from an average of six hours of manual work by one or more QA professionals to approximately one hour.",

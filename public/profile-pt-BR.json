@@ -1,8 +1,8 @@
 {
   "meta": {
     "profile_owner": "Pedro Henrique Leonardi Silva",
-    "version": "2.1.1",
-    "last_updated": "2026-09-29",
+    "version": "2.1.2",
+    "last_updated": "2026-10-01",
     "language": "pt-BR",
     "purpose": [
       "Referência completa do histórico profissional",
@@ -36,7 +36,7 @@
       },
       "profile": "Tenho perfil técnico, pensamento crítico e orientação à qualidade do produto. Procuro compreender requisitos, regras de negócio, fluxos críticos e formas de contribuir para entregas confiáveis que atendam às expectativas dos usuários junto com as necessidades do time, atuando sempre de forma colaborativa e orientada a resultados.",
       "objective": "Procuro oportunidades de Qualidade de Software que me permitam aplicar e ampliar minhas habilidades. Prezo pela combinação das visões de Qualidade de Software e DevOps, ampliando a cobertura, acelerando o feedback e aumentando a confiabilidade das versões, sempre com foco em antecipar e prevenir problemas, apoiar decisões e gerar valor.",
-      "long_term_goal": "Tenho objetivo de continuar me desenvolvendo na área de tecnologia, com foco em qualidade de Software. Aprendendo novas tecnologias, frameworks e formas de contribuir proativamente para a qualidade do produto e dos processos.",
+      "long_term_goal": "Tenho objetivo de continuar me desenvolvendo na área de tecnologia, com foco em qualidade de software, aprendendo novas tecnologias, frameworks e formas de contribuir proativamente para a qualidade do produto e dos processos.",
       "short": "Engenheiro de QA com 5+ anos em tecnologia (3+ dedicados a QA e automação) e background em DevOps. Especialista em automação E2E para desktop, web e APIs com Python, Robot Framework e Cypress. Construí do zero um framework que reduziu a regressão manual de 6h para 1h e evoluí uma suíte Cypress até 400+ testes E2E. Perfil técnico, colaborativo e orientado a resultados."
     },
     "professional_experience_summary": {
@@ -70,27 +70,31 @@
               },
               {
                 "id": "sr-02",
-                "text": "Integrei suítes de testes ao Bitbucket Pipelines e centralizei o envio dos relatórios Allure em servidores HTTP, acelerando a triagem de falhas e viabilizando a automação de CI/CD para testes de regressão desktop."
+                "text": "Integrei suítes de testes desktop ao Bitbucket Pipelines e centralizei o envio dos relatórios Allure em servidores HTTP, acelerando a triagem de falhas e viabilizando a automação de CI/CD para testes de regressão desktop."
               },
               {
                 "id": "sr-03",
-                "text": "Desenvolvi uma solução em Python e PowerShell responsável por instalar dependências e configurar servidores Windows como executores dos testes desktop, documentando o processo e reduzindo em 80% o esforço manual de preparação da infraestrutura."
+                "text": "Desenvolvi uma solução em Python e PowerShell responsável por instalar dependências e configurar servidores Windows como executores dos testes desktop, aplicando idêmpotência, modularização e documentando todo o processo, reduzindo em aproximadamente 80% o esforço manual de preparação da infraestrutura. Utilizei IA como apoio na criação dos scripts."
               },
               {
                 "id": "sr-04",
-                "text": "Atuei na mentoria de profissionais juniores de QA, disseminando boas práticas de automação, código limpo e programação, acelerando o onboarding no projeto."
+                "text": "Atuei na mentoria de profissionais de QA, disseminando boas práticas de automação, código limpo e programação, acelerando o onboarding no framework de testes."
               },
               {
                 "id": "sr-05",
-                "text": "Planejei, documentei e executei estratégias de testes manuais e automatizados, abrangendo testes funcionais, exploratórios, regressivos, de integração e de APIs, além de validações em bancos de dados com SQL."
+                "text": "Analisei requisitos e critérios de aceite com Produto e Desenvolvimento, avaliando riscos e contextos para definir estratégias, estruturar planos de teste e elaborar casos positivos e negativos em Gherkin."
               },
               {
                 "id": "sr-06",
-                "text": "Investiguei e documentei defeitos, registrando contexto, pré-requisitos, etapas de reprodução, resultado esperado, resultado obtido, evidências, logs e impactos identificados."
+                "text": "Executei testes funcionais, regressivos, exploratórios, de sanidade, de integração em aplicações web, desktop e APIs, além de validar persistência e consistência de dados com SQL."
               },
               {
                 "id": "sr-07",
-                "text": "Colaborei diretamente com desenvolvedores na reprodução dos problemas, análise de causa, validação das correções e execução dos retestes antes de novos releases."
+                "text": "Registrei defeitos no Jira, documentando pré-requisitos, passos para reprodução, prioridade, resultado esperado e obtido, evidências, logs e impactos observados."
+              },
+              {
+                "id": "sr-08",
+                "text": "Colaborei com desenvolvedores na reprodução e análise da causa dos defeitos, alinhei esclarecimentos com POs e acompanhei correções, realizando retestes e validações de funcionalidades antes dos releases."
               }
             ],
             "tech_stack": [
@@ -112,7 +116,7 @@
               "Scrum",
               "BDD",
               "Linux",
-              "Testes funcionais"
+              "Jira"
             ]
           },
           {
@@ -188,11 +192,11 @@
             "achievements": [
               {
                 "id": "qa-01",
-                "text": "Assumi progressivamente a arquitetura e a liderança técnica de um projeto de automação em Cypress/JavaScript, que evoluiu de ~50 para mais de 400 testes E2E em um ERP fiscal-financeiro, aplicando Page Object Model, Data-Driven Testing, componentes reutilizáveis, execução seletiva por tags, mecanismos de autorrecuperação e configurações multiambiente, aumentando a estabilidade das suítes e reduzindo falsos positivos nos pipelines."
+                "text": "Assumi progressivamente a arquitetura e a liderança técnica de um projeto de automação em Cypress/JavaScript, que evoluiu de ~50 para mais de 400 testes E2E em um ERP web, aplicando Page Object Model, Data-Driven Testing, componentes reutilizáveis, execução seletiva por tags, mecanismos de autorrecuperação e configurações multiambiente, aumentando a estabilidade das suítes e reduzindo falsos positivos nos pipelines."
               },
               {
                 "id": "qa-02",
-                "text": "Testei regras de negócio e integrações entre serviços criando e executando collections de API REST com Postman, aplicando encadeamento de requisições, retries e testes de cenários negativos, variáveis de ambiente, scripts de pré-requisição, e asserções para validar códigos de status, mensagens, dados das respostas, regras de negócio e integrações entre serviços."
+                "text": "Testei regras de negócio e integrações entre serviços criando e executando collections de API REST com Postman, aplicando encadeamento de requisições, retries, timeouts, variáveis de ambiente, scripts e asserções para validar códigos de status, mensagens, campos, regras de negócio e integrações entre serviços."
               },
               {
                 "id": "qa-03",
@@ -318,12 +322,12 @@
     {
       "id": "out-01",
       "achievement": "Fui responsável pela concepção e construção do zero de um framework de automação de testes E2E para aplicações desktop feitas em Delphi.",
-      "context": "A equipe de qualidade perdia muito tempo com testes regressivos, em média, 1-2 QAs por produto poderiam perder o dia só para garantir a regressão. A ideia era reduzir custos com ferramentas pagas e poupar tempo para atividades mais produtivas. Eu fui o responsável por visualizar a combinação de ferramentas que juntas, poderiam construir um framework que pudesse automatizar esses testes.",
+      "context": "A equipe de qualidade perdia muito tempo com testes regressivos, em média, 1-2 QAs por produto poderiam perder o dia só para garantir a regressão. A ideia era reduzir custos com ferramentas pagas e poupar tempo para atividades mais produtivas, mantendo a garantia de qualidade. Eu fui o responsável por visualizar, planejar, apresentar e criar esse framework que poderia resolver esse problema.",
       "implementation": "O framework foi desenvolvido com Python e Robot Framework, utilizando componentes reutilizáveis, Page Object Model, tags, bibliotecas e keywords customizados. A suíte de testes automatizados foi integrada a pipelines com Bitbucket Pipelines/Runner e os resultados eram publicados em servidores HTTP internos (Nginx).",
       "impact": [
         "Reduziu o tempo do teste de regressão que exigia em média seis horas de trabalho manual, de um ou mais profissionais de QA, para aproximadamente uma hora.",
         "O framework tornou a regressão menos exaustiva e mais assertiva, foi adotado pela equipe e serviu como primeiro contato com automação para vários profissionais.",
-        "Três engenheiros de QA passaram a desenvolver automações para outros sistemas, como também contribuir para a evolução do projeto."
+        "Três engenheiros de QA passaram a desenvolver automações para outros sistemas e a contribuir para a evolução do projeto."
       ],
       "source_achievements": [
         "sr-01",
@@ -337,7 +341,7 @@
       "implementation": "Implementei Page Object Model, comandos customizados, execução por tags, massa de dados, Data-Driven Testing, configuração multiambiente, esperas dinâmicas e restauração automatizada do estado-base.",
       "impact": [
         "Recuperamos a confiabilidade do projeto que havia se tornado frágil, tornando seus relatórios mais coerentes com a condição real do produto.",
-        "A solução facilitou a manutenção e a criação contínua de testes, permitindo que mais tempo fosse dedicado criando novos testes, ao invés de apenas correção dos testes.",
+        "A solução facilitou a manutenção e a criação contínua de testes, permitindo que mais tempo fosse dedicado criando novos testes, ao invés de apenas corrigindo os testes.",
         "Os testes eram executados durante a madrugada e apoiavam decisões sobre a qualidade das entregas."
       ],
       "source_achievements": [
@@ -347,10 +351,10 @@
     {
       "id": "out-03",
       "achievement": "Desenvolvi e evoluí pipelines integrados ao fluxo de CI/CD para execução automatizada dos projetos de teste.",
-      "context": "Desenvolvi e corrigi pipelines com Jenkins (integrados ao fluxo de CI/CD) e Bitbucket Pipelines/Runner. Era responsável por garantir a executabilidade das suites, configuração e manutenção do ambiente, geração de relatórios Allure Report e publicação dos resultados via SSH ou WinSCP em servidores HTTP internos (Apache/Nginx).",
+      "context": "Desenvolvi e corrigi pipelines com Jenkins (integrados ao fluxo de CI/CD) e Bitbucket Pipelines/Runner. Era responsável por garantir a executabilidade das suítes, configuração e manutenção do ambiente, geração de relatórios Allure Report e publicação dos resultados via SSH ou WinSCP em servidores HTTP internos (Apache/Nginx).",
       "impact": [
         "Centralizou os resultados em relatórios Allure publicados em servidores HTTP.",
-        "Proporcionou feedback mais rápido sobre a qualidade das entregas, também como uma visão geral do estado do produto.",
+        "Proporcionou feedback mais rápido sobre a qualidade das entregas, bem como uma visão geral do estado do produto.",
         "Reduziu a dependência de comunicação informal sobre as falhas e facilitou a investigação e a validação de defeitos."
       ],
       "source_achievements": [

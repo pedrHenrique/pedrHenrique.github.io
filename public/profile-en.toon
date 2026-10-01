@@ -1,7 +1,7 @@
 meta:
   profile_owner: Pedro Henrique Leonardi Silva
-  version: 2.1.1
-  last_updated: 2026-09-29
+  version: 2.1.2
+  last_updated: 2026-10-01
   language: en
   purpose[4]: Complete professional background reference,Job opportunity matching,Basis for resume adaptation and customization,AI-assisted career analysis
   secondary_sources:
@@ -44,15 +44,16 @@ profile:
           area: Quality Engineering / Test Automation / Test Framework Development
           context: Applications developed in Delphi for the tax and accounting sectors.
           domain: Tax and accounting
-          achievements[7]{id,text}:
+          achievements[8]{id,text}:
             sr-01,"Designed and built an E2E test automation framework from scratch for desktop applications using Python and Robot Framework, creating reusable components to automate complex regression workflows and reducing regression testing time from approximately 6 hours to 1 hour."
-            sr-02,"Integrated test suites with Bitbucket Pipelines and centralized Allure report publishing on HTTP servers, speeding up failure triage and enabling CI/CD automation for desktop regression testing."
-            sr-03,"Developed a Python and PowerShell solution to install dependencies and configure Windows servers as desktop test runners, documented the process, and reduced manual infrastructure setup effort by 80%."
-            sr-04,"Mentored junior QA professionals in automation best practices, clean code, and programming, accelerating their onboarding to the project."
-            sr-05,"Planned, documented, and executed manual and automated testing strategies covering functional, exploratory, regression, integration, and API testing, as well as database validation using SQL."
-            sr-06,"Investigated and documented defects, recording context, prerequisites, steps to reproduce, expected and actual results, evidence, logs, and identified impacts."
-            sr-07,"Collaborated directly with developers to reproduce issues, analyze their causes, validate fixes, and retest before new releases."
-          tech_stack[19]: Python,PowerShell,Robot Framework,Robocorp,Bitbucket Pipelines,Bitbucket Runner,TestComplete,Windows Server,Nginx,Docker,Allure Report,WinSCP,PostgreSQL,Ansible,Jira,Scrum,BDD,Linux,Functional Testing
+            sr-02,"Integrated desktop test suites with Bitbucket Pipelines and centralized Allure report publishing on HTTP servers, speeding up failure triage and enabling CI/CD automation for desktop regression testing."
+            sr-03,"Developed a Python and PowerShell solution to install dependencies and configure Windows servers as desktop test runners. Built it with modular scripts, idempotent, and documented the entire process, reducing manual infrastructure setup effort by approximately 80%. Used AI to help write the scripts."
+            sr-04,"Mentored QA professionals in automation best practices, clean code, and programming, helping them get up to speed with the test automation framework."
+            sr-05,"Worked with Product and Development to analyze requirements and acceptance criteria, assess risks and context, define test strategies, structure test plans, and write positive and negative test scenarios in Gherkin."
+            sr-06,"Performed functional, regression, exploratory, sanity, and integration testing across web and desktop applications and APIs, and used SQL to validate data persistence and consistency."
+            sr-07,"Logged defects in Jira, documenting prerequisites, reproduction steps, priority, expected and actual results, evidence, logs, and observed impact."
+            sr-08,"Worked with developers to reproduce defects and analyze root causes, clarified issues with product owners, tracked fixes, and retested and validated features before releases."
+          tech_stack[18]: Python,PowerShell,Robot Framework,Robocorp,Bitbucket Pipelines,Bitbucket Runner,TestComplete,Windows Server,Nginx,Docker,Allure Report,WinSCP,PostgreSQL,Ansible,Jira,Scrum,BDD,Linux
         - id: devops-pleno
           title: Mid-Level DevOps Engineer
           period:
@@ -81,8 +82,8 @@ profile:
           context: Testing a web product still under development (Simplifique) and internal REST APIs used to communicate with municipal governments in Brazil.
           domain: Microservices ecosystem and products under development
           achievements[4]{id,text}:
-            qa-01,"Progressively took ownership of the architecture and technical leadership of a Cypress/JavaScript automation project that grew from approximately 50 to over 400 E2E tests for a tax and financial ERP. Applied Page Object Model, Data-Driven Testing, reusable components, selective tag-based execution, self-recovery mechanisms, and multi-environment configurations to improve suite stability and reduce false positives in pipelines."
-            qa-02,"Tested business rules and service integrations by creating and running REST API collections in Postman, using request chaining, retries, negative test scenarios, environment variables, pre-request scripts, and assertions to validate status codes, messages, response data, business rules, and integrations between services."
+            qa-01,"Progressively took ownership of the architecture and technical leadership of a Cypress/JavaScript automation project that grew from approximately 50 to over 400 E2E tests for a web-based ERP. Applied Page Object Model, Data-Driven Testing, reusable components, selective tag-based execution, self-recovery mechanisms, and multi-environment configurations to improve suite stability and reduce false positives in pipelines."
+            qa-02,"Tested business rules and service integrations by creating and running REST API collections in Postman, using request chaining, retries, timeouts, environment variables, scripts, and assertions to validate status codes, messages, response fields, business rules, and integrations between services."
             qa-03,Contributed to the development of new backend features and unit tests using Java and JUnit.
             qa-04,"Participated in Agile ceremonies, refinement sessions, and discussions with product and development teams, analyzing requirements, documenting scenarios, and executing functional and integration tests to validate business rules."
           tech_stack[15]: Cypress,Jenkins,JavaScript,Page Object Model,Data-Driven Testing,Tag-Based Test Execution,Postman,JUnit,Java,Maven,Jira,GitLab,BDD,Linux,Functional Testing
@@ -139,7 +140,7 @@ profile:
 demonstrated_outcomes[4]:
   - id: out-01
     achievement: Designed and built an E2E test automation framework from scratch for desktop applications developed in Delphi.
-    context: "The quality team spent a significant amount of time on regression testing: one or two QA professionals per product could spend an entire day ensuring regression coverage. The goal was to reduce spending on paid tools and free up time for more productive activities. I identified a combination of tools that could work together to build a framework capable of automating these tests."
+    context: "The quality team spent a significant amount of time on regression testing: one or two QA professionals per product could spend almost an entire day ensuring regression coverage. The goal was to reduce spending on paid tools and free up time for more productive activities, while maintaining quality assurance. I conceived, planned, presented, and built a framework to address this problem."
     implementation: "The framework was developed with Python and Robot Framework, using reusable components, Page Object Model, tags, custom libraries, and custom keywords. The automated test suite was integrated into pipelines with Bitbucket Pipelines/Runner, and results were published on internal HTTP servers (Nginx)."
     impact[3]: Reduced regression testing time from an average of six hours of manual work by one or more QA professionals to approximately one hour.,Made regression testing less exhausting and more reliable. The framework was adopted by the team and gave several professionals their first hands-on experience with automation.,Three QA engineers went on to develop automation for other systems and contribute to improvements to the project.
     source_achievements[2]: sr-01,sr-02
@@ -469,7 +470,7 @@ skills:
       category: ci_cd_devops
       tier: familiar
       experience_in_years: <1
-      documented_professional_months: 17
+      documented_professional_months: 6
       documented_in_roles[1]: senior-automation
       used_at: Contmatic Phoenix
       know_how: "Inventories, YAML playbooks, tasks, modules, variables, playbook execution, and fundamentals of idempotent configuration automation"
