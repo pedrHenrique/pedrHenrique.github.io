@@ -1,7 +1,7 @@
 {
   "meta": {
     "profile_owner": "Pedro Henrique Leonardi Silva",
-    "version": "2.1.2",
+    "version": "2.2.1",
     "last_updated": "2026-10-01",
     "language": "pt-BR",
     "purpose": [
@@ -66,34 +66,38 @@
             "achievements": [
               {
                 "id": "sr-01",
-                "text": "Projetei e desenvolvi do zero um framework de automação de testes E2E para desktop com Python e Robot Framework, estruturando componentes reutilizáveis para automatizar fluxos complexos de regressão, reduzindo o tempo de regressão de ~6 horas para 1 hora."
+                "text": "Projetei e desenvolvi do zero um framework completo de automação de testes E2E para desktop com Python e Robot Framework, estruturando componentes reutilizáveis para automatizar fluxos complexos de regressão, reduzindo o tempo de regressão de ~6 horas para 1 hora."
               },
               {
                 "id": "sr-02",
-                "text": "Integrei suítes de testes desktop ao Bitbucket Pipelines e centralizei o envio dos relatórios Allure em servidores HTTP, acelerando a triagem de falhas e viabilizando a automação de CI/CD para testes de regressão desktop."
+                "text": "Reduzi o tempo do teste de regressão manual de 6 horas para 1 hora desenvolvendo testes automatizados de regressão para aplicações desktop utilizando o framework criado."
               },
               {
                 "id": "sr-03",
-                "text": "Desenvolvi uma solução em Python e PowerShell responsável por instalar dependências e configurar servidores Windows como executores dos testes desktop, aplicando idêmpotência, modularização e documentando todo o processo, reduzindo em aproximadamente 80% o esforço manual de preparação da infraestrutura. Utilizei IA como apoio na criação dos scripts."
+                "text": "Automatizei com Bitbucket Pipelines/Runner a execução completa das suítes desktop e a publicação dos resultados do Allure Report em servidores HTTP, acelerando a triagem de falhas e viabilizando a automação de CI/CD para testes de regressão desktop."
               },
               {
                 "id": "sr-04",
-                "text": "Atuei na mentoria de profissionais de QA, disseminando boas práticas de automação, código limpo e programação, acelerando o onboarding no framework de testes."
+                "text": "Desenvolvi uma solução em Python e PowerShell responsável por instalar dependências e configurar servidores Windows como executores dos testes desktop, aplicando idempotência, modularização e documentando todo o processo, reduzindo em aproximadamente 80% o esforço manual de preparação da infraestrutura. Utilizei IA como apoio na criação dos scripts."
               },
               {
                 "id": "sr-05",
-                "text": "Analisei requisitos e critérios de aceite com Produto e Desenvolvimento, avaliando riscos e contextos para definir estratégias, estruturar planos de teste e elaborar casos positivos e negativos em Gherkin."
+                "text": "Atuei na mentoria de profissionais de QA, disseminando boas práticas de automação, código limpo e programação, acelerando o onboarding no framework de testes."
               },
               {
                 "id": "sr-06",
-                "text": "Executei testes funcionais, regressivos, exploratórios, de sanidade, de integração em aplicações web, desktop e APIs, além de validar persistência e consistência de dados com SQL."
+                "text": "Analisei requisitos e critérios de aceite com Produto e Desenvolvimento, avaliando riscos e contextos para definir estratégias, estruturar planos de teste e elaborar casos positivos e negativos em Gherkin."
               },
               {
                 "id": "sr-07",
-                "text": "Registrei defeitos no Jira, documentando pré-requisitos, passos para reprodução, prioridade, resultado esperado e obtido, evidências, logs e impactos observados."
+                "text": "Executei testes funcionais, regressivos, exploratórios, de sanidade, de integração em aplicações web, desktop e APIs, além de validar persistência e consistência de dados com SQL."
               },
               {
                 "id": "sr-08",
+                "text": "Registrei defeitos no Jira, documentando pré-requisitos, passos para reprodução, prioridade, resultado esperado e obtido, evidências, logs e impactos observados."
+              },
+              {
+                "id": "sr-09",
                 "text": "Colaborei com desenvolvedores na reprodução e análise da causa dos defeitos, alinhei esclarecimentos com POs e acompanhei correções, realizando retestes e validações de funcionalidades antes dos releases."
               }
             ],
@@ -115,8 +119,7 @@
               "Jira",
               "Scrum",
               "BDD",
-              "Linux",
-              "Jira"
+              "Linux"
             ]
           },
           {
@@ -312,7 +315,7 @@
       }
     ],
     "languages": {
-      "english": "B2 - Intermediário-avançado / Proficiência profissional de trabalho"
+      "english": "Avançado - C1"
     },
     "personal_projects": {
       "items": []
@@ -858,6 +861,18 @@
       ],
       "date": "28/09/2026",
       "certificate_url": "https://static.mate.academy/certificates/production/1436647/154596/212b541c-4215-429e-b1e7-9cc3036e5fb6/silva-certificate.pdf"
+    },
+    {
+      "title": "Certificado de Inglês 66/100 (C1 Avançado)",
+      "issuer": "EF SET English Certificate",
+      "skills": [
+        "Leitura",
+        "Escrita",
+        "Escuta",
+        "Fala"
+      ],
+      "date": "09/10/2026",
+      "certificate_url": "https://cert.efset.org/en/oEPKUT"
     }
   ]
 }

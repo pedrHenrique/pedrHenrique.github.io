@@ -1,7 +1,7 @@
 {
   "meta": {
     "profile_owner": "Pedro Henrique Leonardi Silva",
-    "version": "2.1.2",
+    "version": "2.2.1",
     "last_updated": "2026-10-01",
     "language": "en",
     "purpose": [
@@ -66,34 +66,38 @@
             "achievements": [
               {
                 "id": "sr-01",
-                "text": "Designed and built an E2E test automation framework from scratch for desktop applications using Python and Robot Framework, creating reusable components to automate complex regression workflows and reducing regression testing time from approximately 6 hours to 1 hour."
+                "text": "Designed and built an E2E automation framework from scratch for desktop applications using Python and Robot Framework. The framework enabled reliable automated test execution and was adopted by other QA engineers."
               },
               {
                 "id": "sr-02",
-                "text": "Integrated desktop test suites with Bitbucket Pipelines and centralized Allure report publishing on HTTP servers, speeding up failure triage and enabling CI/CD automation for desktop regression testing."
+                "text": "Reduced manual regression testing time from 6 hours to 1 hour by developing automated regression tests for desktop applications using the framework."
               },
               {
                 "id": "sr-03",
-                "text": "Developed a Python and PowerShell solution to install dependencies and configure Windows servers as desktop test runners. Built it with modular scripts, idempotent, and documented the entire process, reducing manual infrastructure setup effort by approximately 80%. Used AI to help write the scripts."
+                "text": "Integrated desktop test suites with Bitbucket Pipelines and centralized Allure report publishing on HTTP servers, speeding up failure triage and enabling CI/CD automation for desktop regression testing."
               },
               {
                 "id": "sr-04",
-                "text": "Mentored QA professionals in automation best practices, clean code, and programming, helping them get up to speed with the test automation framework."
+                "text": "Developed a Python and PowerShell solution to install dependencies and configure Windows servers as desktop test runners. Built it with modular scripts, idempotent, and documented the entire process, reducing manual infrastructure setup effort by approximately 80%. Used AI to help write the scripts."
               },
               {
                 "id": "sr-05",
-                "text": "Worked with Product and Development to analyze requirements and acceptance criteria, assess risks and context, define test strategies, structure test plans, and write positive and negative test scenarios in Gherkin."
+                "text": "Mentored QA professionals in automation best practices, clean code, and programming, helping them get up to speed with the test automation framework."
               },
               {
                 "id": "sr-06",
-                "text": "Performed functional, regression, exploratory, sanity, and integration testing across web and desktop applications and APIs, and used SQL to validate data persistence and consistency."
+                "text": "Worked with Product and Development to analyze requirements and acceptance criteria, assess risks and context, define test strategies, structure test plans, and write positive and negative test scenarios in Gherkin."
               },
               {
                 "id": "sr-07",
-                "text": "Logged defects in Jira, documenting prerequisites, reproduction steps, priority, expected and actual results, evidence, logs, and observed impact."
+                "text": "Performed functional, regression, exploratory, sanity, and integration testing across web and desktop applications and APIs, and used SQL to validate data persistence and consistency."
               },
               {
                 "id": "sr-08",
+                "text": "Logged defects in Jira, documenting prerequisites, reproduction steps, priority, expected and actual results, evidence, logs, and observed impact."
+              },
+              {
+                "id": "sr-09",
                 "text": "Worked with developers to reproduce defects and analyze root causes, clarified issues with product owners, tracked fixes, and retested and validated features before releases."
               }
             ],
@@ -311,7 +315,7 @@
       }
     ],
     "languages": {
-      "english": "B2 - Upper Intermediate / Professional Working Proficiency"
+      "english": "Advanced - C1"
     },
     "personal_projects": {
       "items": []
@@ -857,6 +861,18 @@
       ],
       "date": "09/28/2026",
       "certificate_url": "https://static.mate.academy/certificates/production/1436647/154596/212b541c-4215-429e-b1e7-9cc3036e5fb6/silva-certificate.pdf"
+    },
+    {
+      "title": "English Certificate 66/100 (C1 Advanced)",
+      "issuer": "EF SET English Certificate",
+      "skills": [
+        "Reading",
+        "Writing",
+        "Listening",
+        "Speaking"
+      ],
+      "date": "09/10/2026",
+      "certificate_url": "https://cert.efset.org/en/oEPKUT"
     }
   ]
 }

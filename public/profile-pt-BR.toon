@@ -1,6 +1,6 @@
 meta:
   profile_owner: Pedro Henrique Leonardi Silva
-  version: 2.1.2
+  version: 2.2.1
   last_updated: 2026-10-01
   language: pt-BR
   purpose[4]: Referência completa do histórico profissional,Correspondência com oportunidades de trabalho,Base para adaptação e personalização de currículos,Análise de carreira assistida por IA
@@ -44,16 +44,17 @@ profile:
           area: Engenharia de Qualidade / Automação de Testes / Desenvolvimento de Frameworks de Testes
           context: Aplicações desenvolvidas em Delphi para o segmento fiscal e contábil.
           domain: Fiscal e contábil
-          achievements[8]{id,text}:
-            sr-01,"Projetei e desenvolvi do zero um framework de automação de testes E2E para desktop com Python e Robot Framework, estruturando componentes reutilizáveis para automatizar fluxos complexos de regressão, reduzindo o tempo de regressão de ~6 horas para 1 hora."
-            sr-02,"Integrei suítes de testes desktop ao Bitbucket Pipelines e centralizei o envio dos relatórios Allure em servidores HTTP, acelerando a triagem de falhas e viabilizando a automação de CI/CD para testes de regressão desktop."
-            sr-03,"Desenvolvi uma solução em Python e PowerShell responsável por instalar dependências e configurar servidores Windows como executores dos testes desktop, aplicando idêmpotência, modularização e documentando todo o processo, reduzindo em aproximadamente 80% o esforço manual de preparação da infraestrutura. Utilizei IA como apoio na criação dos scripts."
-            sr-04,"Atuei na mentoria de profissionais de QA, disseminando boas práticas de automação, código limpo e programação, acelerando o onboarding no framework de testes."
-            sr-05,"Analisei requisitos e critérios de aceite com Produto e Desenvolvimento, avaliando riscos e contextos para definir estratégias, estruturar planos de teste e elaborar casos positivos e negativos em Gherkin."
-            sr-06,"Executei testes funcionais, regressivos, exploratórios, de sanidade, de integração em aplicações web, desktop e APIs, além de validar persistência e consistência de dados com SQL."
-            sr-07,"Registrei defeitos no Jira, documentando pré-requisitos, passos para reprodução, prioridade, resultado esperado e obtido, evidências, logs e impactos observados."
-            sr-08,"Colaborei com desenvolvedores na reprodução e análise da causa dos defeitos, alinhei esclarecimentos com POs e acompanhei correções, realizando retestes e validações de funcionalidades antes dos releases."
-          tech_stack[19]: Python,PowerShell,Robot Framework,Robocorp,Bitbucket Pipelines,Bitbucket Runner,TestComplete,Windows Server,Nginx,Docker,Allure Report,WinSCP,PostgreSQL,Ansible,Jira,Scrum,BDD,Linux,Jira
+          achievements[9]{id,text}:
+            sr-01,"Projetei e desenvolvi do zero um framework completo de automação de testes E2E para desktop com Python e Robot Framework, estruturando componentes reutilizáveis para automatizar fluxos complexos de regressão, reduzindo o tempo de regressão de ~6 horas para 1 hora."
+            sr-02,Reduzi o tempo do teste de regressão manual de 6 horas para 1 hora desenvolvendo testes automatizados de regressão para aplicações desktop utilizando o framework criado.
+            sr-03,"Automatizei com Bitbucket Pipelines/Runner a execução completa das suítes desktop e a publicação dos resultados do Allure Report em servidores HTTP, acelerando a triagem de falhas e viabilizando a automação de CI/CD para testes de regressão desktop."
+            sr-04,"Desenvolvi uma solução em Python e PowerShell responsável por instalar dependências e configurar servidores Windows como executores dos testes desktop, aplicando idempotência, modularização e documentando todo o processo, reduzindo em aproximadamente 80% o esforço manual de preparação da infraestrutura. Utilizei IA como apoio na criação dos scripts."
+            sr-05,"Atuei na mentoria de profissionais de QA, disseminando boas práticas de automação, código limpo e programação, acelerando o onboarding no framework de testes."
+            sr-06,"Analisei requisitos e critérios de aceite com Produto e Desenvolvimento, avaliando riscos e contextos para definir estratégias, estruturar planos de teste e elaborar casos positivos e negativos em Gherkin."
+            sr-07,"Executei testes funcionais, regressivos, exploratórios, de sanidade, de integração em aplicações web, desktop e APIs, além de validar persistência e consistência de dados com SQL."
+            sr-08,"Registrei defeitos no Jira, documentando pré-requisitos, passos para reprodução, prioridade, resultado esperado e obtido, evidências, logs e impactos observados."
+            sr-09,"Colaborei com desenvolvedores na reprodução e análise da causa dos defeitos, alinhei esclarecimentos com POs e acompanhei correções, realizando retestes e validações de funcionalidades antes dos releases."
+          tech_stack[18]: Python,PowerShell,Robot Framework,Robocorp,Bitbucket Pipelines,Bitbucket Runner,TestComplete,Windows Server,Nginx,Docker,Allure Report,WinSCP,PostgreSQL,Ansible,Jira,Scrum,BDD,Linux
         - id: devops-pleno
           title: Engenheiro DevOps Pleno
           period:
@@ -134,7 +135,7 @@ profile:
         end: "2017"
       completed: 2017
   languages:
-    english: B2 - Intermediário-avançado / Proficiência profissional de trabalho
+    english: Avançado - C1
   personal_projects:
     items[0]:
 demonstrated_outcomes[4]:
@@ -474,7 +475,7 @@ skills:
       documented_in_roles[1]: senior-automation
       used_at: Contmatic Phoenix
       know_how: "Inventários, playbooks em YAML, tasks, modules, variables, execução de playbooks e fundamentos de automação idempotente de configuração"
-certifications[2]:
+certifications[3]:
   - title: "Integração contínua com testes, utilizando Jenkins"
     issuer: Udemy
     skills[8]: Integração Contínua,Entrega Contínua,Jenkins,Selenium WebDriver,REST Assured,JUnit,SonarQube,PostgreSQL
@@ -485,3 +486,8 @@ certifications[2]:
     skills[16]: "Casos de Teste: boas práticas, priorização, taxas de execução e aprovação","Plano de Testes: análise de produto, desenvolvimento de estratégia, objetivo, critérios de aceite, planejamento de recursos e criação de relatório de testes",Decomposição,"Testes Funcionais: unidade, integração, sistema, aceitação, regressão, fumaça, exploratórios","Testes Não Funcionais: usabilidade, desempenho, GUI, localização, compatibilidade, segurança",Matriz de Rastreabilidade de Requisitos,"Técnicas de Design de Teste: classes de equivalência, análise de valores limites, pairwise, testes de risco e permissões",Princípios de Teste,SDLC (Software Development Life Cycle),STLC (Software Testing Life Cycle),Análise de requisitos e critérios de aceite,Priorização com base em risco,Jira,TestRail,Scrum,Kanban
     date: 28/09/2026
     certificate_url: "https://static.mate.academy/certificates/production/1436647/154596/212b541c-4215-429e-b1e7-9cc3036e5fb6/silva-certificate.pdf"
+  - title: Certificado de Inglês 66/100 (C1 Avançado)
+    issuer: EF SET English Certificate
+    skills[4]: Leitura,Escrita,Escuta,Fala
+    date: 09/10/2026
+    certificate_url: "https://cert.efset.org/en/oEPKUT"
