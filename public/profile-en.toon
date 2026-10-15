@@ -1,6 +1,6 @@
 meta:
   profile_owner: Pedro Henrique Leonardi Silva
-  version: 2.2.1
+  version: 2.3.1
   last_updated: 2026-10-01
   language: en
   purpose[4]: Complete professional background reference,Job opportunity matching,Basis for resume adaptation and customization,AI-assisted career analysis
@@ -163,7 +163,7 @@ demonstrated_outcomes[4]:
     impact[2]: "Reduced manual effort by 80% and consolidated the procedure for reproducing the environment, reducing reliance on undocumented, highly specific knowledge. The solution was designed to make future setup easier for other professionals.","Automated much of the required setup, which could take 5 hours or more of manual work and require specific knowledge of several tools."
     source_achievements[1]: sr-03
 skills:
-  technical[34]:
+  technical[35]:
     - id: skill-web-test-automation
       skill: Web Test Automation
       category: test_automation
@@ -248,6 +248,15 @@ skills:
       documented_in_roles[3]: senior-automation,devops-pleno,devops-intern
       used_at: "Contmatic Phoenix, Universidade Paulista Unip"
       know_how: "Object-oriented programming, data structures, comprehensions, functions, *args and **kwargs, decorators, context managers, magic methods, file handling, exception handling, logging, process automation, test framework development, and report generation"
+    - id: skill-k6
+      skill: k6
+      category: performance_testing
+      tier: secondary
+      experience_in_years: <1
+      documented_professional_months: 0
+      documented_in_roles[0]:
+      used_at: ""
+      know_how: "Perfomance Testing, Metrics, Web Testing, API Testing, CI/CD integration"
     - id: skill-jenkins
       skill: Jenkins
       category: ci_cd_devops
@@ -475,7 +484,7 @@ skills:
       documented_in_roles[1]: senior-automation
       used_at: Contmatic Phoenix
       know_how: "Inventories, YAML playbooks, tasks, modules, variables, playbook execution, and fundamentals of idempotent configuration automation"
-certifications[3]:
+certifications[4]:
   - title: Continuous Integration with Testing Using Jenkins
     issuer: Udemy
     skills[8]: Continuous Integration,Continuous Delivery,Jenkins,Selenium WebDriver,REST Assured,JUnit,SonarQube,PostgreSQL
@@ -491,3 +500,8 @@ certifications[3]:
     skills[4]: Reading,Writing,Listening,Speaking
     date: 09/10/2026
     certificate_url: "https://cert.efset.org/en/oEPKUT"
+  - title: K6 – Performance Testing Masterclass with JavaScript
+    issuer: EF SET English Certificate
+    skills[9]: k6,Performance Testing,Load Testing,Stress Testing,Spike Testing,Soak Testing,API Testing,Web Testing,JavaScript
+    date: 14/10/2026
+    certificate_url: "https://www.udemy.com/certificate/UC-7a988018-f8e3-4631-898e-bb6083787eb2/"

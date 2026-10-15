@@ -1,7 +1,7 @@
 {
   "meta": {
     "profile_owner": "Pedro Henrique Leonardi Silva",
-    "version": "2.2.1",
+    "version": "2.3.1",
     "last_updated": "2026-10-01",
     "language": "en",
     "purpose": [
@@ -507,6 +507,18 @@
         "know_how": "Object-oriented programming, data structures, comprehensions, functions, *args and **kwargs, decorators, context managers, magic methods, file handling, exception handling, logging, process automation, test framework development, and report generation"
       },
       {
+        "id": "skill-k6",
+        "skill": "k6",
+        "category": "performance_testing",
+        "tier": "secondary",
+        "experience_in_years": "<1",
+        "documented_professional_months": 0,
+        "documented_in_roles": [
+        ],
+        "used_at": "",
+        "know_how": "Perfomance Testing, Metrics, Web Testing, API Testing, CI/CD integration"
+      },
+      {
         "id": "skill-jenkins",
         "skill": "Jenkins",
         "category": "ci_cd_devops",
@@ -873,6 +885,23 @@
       ],
       "date": "09/10/2026",
       "certificate_url": "https://cert.efset.org/en/oEPKUT"
+    },
+    {
+      "title": "K6 – Performance Testing Masterclass with JavaScript",
+      "issuer": "EF SET English Certificate",
+      "skills": [
+        "k6",
+        "Performance Testing",
+        "Load Testing",
+        "Stress Testing",
+        "Spike Testing",
+        "Soak Testing",
+        "API Testing",
+        "Web Testing",
+        "JavaScript"
+      ],
+      "date": "14/10/2026",
+      "certificate_url": "https://www.udemy.com/certificate/UC-7a988018-f8e3-4631-898e-bb6083787eb2/"
     }
   ]
 }

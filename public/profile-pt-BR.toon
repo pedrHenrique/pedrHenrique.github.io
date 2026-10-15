@@ -1,6 +1,6 @@
 meta:
   profile_owner: Pedro Henrique Leonardi Silva
-  version: 2.2.1
+  version: 2.3.1
   last_updated: 2026-10-01
   language: pt-BR
   purpose[4]: Referência completa do histórico profissional,Correspondência com oportunidades de trabalho,Base para adaptação e personalização de currículos,Análise de carreira assistida por IA
@@ -163,7 +163,7 @@ demonstrated_outcomes[4]:
     impact[2]: "A solução reduziu o esforço manual em 80% e concentrou o procedimento necessário para reproduzir o ambiente, diminuindo a dependência de conhecimento não documentado e muito específico, sendo projetada para facilitar futuras configurações por outros profissionais.",Automatizou grande parte da configuração necessária que podia exigir 5 horas ou mais de trabalho manual e conhecimento específico sobre diversas ferramentas.
     source_achievements[1]: sr-03
 skills:
-  technical[34]:
+  technical[35]:
     - id: skill-web-test-automation
       skill: Web Test Automation
       category: test_automation
@@ -248,6 +248,15 @@ skills:
       documented_in_roles[3]: senior-automation,devops-pleno,devops-intern
       used_at: "Contmatic Phoenix, Universidade Paulista Unip"
       know_how: "Programação orientada a objetos, estruturas de dados, comprehensions, funções, *args e **kwargs, decorators, context managers, magic methods, manipulação de arquivos, tratamento de exceções, logging, automação de processos, desenvolvimento de frameworks de testes, geração de relatórios"
+    - id: skill-k6
+      skill: k6
+      category: performance_testing
+      tier: secondary
+      experience_in_years: <1
+      documented_professional_months: 0
+      documented_in_roles[0]:
+      used_at: ""
+      know_how: "Testes de performance, métricas, testes web, testes de APIs e integração com CI/CD"
     - id: skill-jenkins
       skill: Jenkins
       category: ci_cd_devops
@@ -475,7 +484,7 @@ skills:
       documented_in_roles[1]: senior-automation
       used_at: Contmatic Phoenix
       know_how: "Inventários, playbooks em YAML, tasks, modules, variables, execução de playbooks e fundamentos de automação idempotente de configuração"
-certifications[3]:
+certifications[4]:
   - title: "Integração contínua com testes, utilizando Jenkins"
     issuer: Udemy
     skills[8]: Integração Contínua,Entrega Contínua,Jenkins,Selenium WebDriver,REST Assured,JUnit,SonarQube,PostgreSQL
@@ -491,3 +500,8 @@ certifications[3]:
     skills[4]: Leitura,Escrita,Escuta,Fala
     date: 09/10/2026
     certificate_url: "https://cert.efset.org/en/oEPKUT"
+  - title: k6 – Masterclass de Testes de Performance com JavaScript
+    issuer: Udemy
+    skills[9]: k6,Testes de Performance,Testes de Carga,Testes de Estresse,Testes de Pico,Testes de Longa Duração,Testes de APIs,Testes Web,JavaScript
+    date: 14/10/2026
+    certificate_url: "https://www.udemy.com/certificate/UC-7a988018-f8e3-4631-898e-bb6083787eb2/"
